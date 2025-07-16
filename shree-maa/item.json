@@ -223,9 +223,9 @@
     "id": "21",
     "productImage": "/cake-img/21.png",
     "productTitle": "Princess Doll Gown Cake",
-    "price": 568,
-    "originalPrice": 669,
-    "note": "Limited Stock Available",
+    "price": "800",
+    "originalPrice": "850",
+    "note": "Top quality and eggless cake only ",
     "description": " A show-stopping pink gown cake with a doll topper, ideal for birthday parties with a royal princess theme.",
     "rating": "4.1",
     "reviewCount": "10"
