@@ -201,9 +201,9 @@
     "id": "19",
     "productImage": "/cake-img/19.png",
     "productTitle": "Daisy Delight Mother's Day Cake",
-    "price": 401,
-    "originalPrice": 711,
-    "note": "Popular Choice",
+    "price": "300",
+    "originalPrice": "450",
+    "note": "Top quality and eggless cake only ",
     "description": "A white fondant cake topped with hand-crafted daisies and a warm message — made to celebrate mothers with love.",
     "rating": "3.9",
     "reviewCount": "95"
