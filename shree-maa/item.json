@@ -91,9 +91,9 @@
     "id": "9",
     "productImage": "/cake-img/9.png",
     "productTitle": "Nutty Chocolate Fudge Cake",
-    "price": 441,
-    "originalPrice": 616,
-    "note": "Only Few Left",
+    "price": "380",
+    "originalPrice": "550",
+    "note": "Top quality and eggless cake ",
     "description": "A delicious chocolate cake topped with nuts and cream, offering a rich and indulgent bite every time.",
     "rating": "4.1",
     "reviewCount": "23"
