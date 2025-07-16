@@ -102,9 +102,9 @@
     "id": "10",
     "productImage": "/cake-img/10.png",
     "productTitle": "Rainbow Layer Cartoon Cake",
-    "price": 455,
-    "originalPrice": 731,
-    "note": "Limited Stock Available",
+    "price": "1200",
+    "originalPrice": "1450",
+    "note": "Only eggless and top quality cake ",
     "description": "A birthday cake is a sweet dessert, typically a layer cake, designed to celebrate someone's birthday.",
     "rating": "3.8",
     "reviewCount": "50"
