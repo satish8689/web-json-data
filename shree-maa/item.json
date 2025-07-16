@@ -245,9 +245,9 @@
     "id": "23",
     "productImage": "/cake-img/23.png",
     "productTitle": "Chocolate Crunch Celebration Cake",
-    "price": 488,
-    "originalPrice": 729,
-    "note": "Limited Stock Available",
+    "price": "380",
+    "originalPrice": "450",
+    "note": "Top quality and eggless cake ",
     "description": "This cake is made from the finest ingredients, perfect for every celebration.",
     "rating": "4.7",
     "reviewCount": "60"
