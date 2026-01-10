@@ -22,5 +22,21 @@
     "remaining": -71,
     "createdAt": "2026-01-10T12:08:40.142Z",
     "id": "1768046921304"
+  },
+  {
+    "name": "",
+    "mobile": "",
+    "address": "",
+    "date": "",
+    "prescriptions": [
+      {},
+      {}
+    ],
+    "remark": "test re",
+    "total": "30",
+    "advance": "10",
+    "remaining": 20,
+    "createdAt": "2026-01-10T12:56:59.863Z",
+    "id": "1768049820913"
   }
 ]
