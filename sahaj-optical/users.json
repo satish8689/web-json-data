@@ -6,5 +6,13 @@
     "address": "Kalandi Gold",
     "createdAt": "2026-01-10T08:54:23.395Z",
     "updatedAt": "2026-01-10T08:54:23.395Z"
+  },
+  {
+    "id": "1768235120292",
+    "name": "Test",
+    "mobile": "9898767876",
+    "address": "New data",
+    "createdAt": "2026-01-12T16:25:20.292Z",
+    "updatedAt": "2026-01-12T16:25:20.292Z"
   }
 ]
