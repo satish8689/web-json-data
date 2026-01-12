@@ -113,5 +113,58 @@
     "remaining": 90,
     "createdAt": "2026-01-12T17:52:16.841Z",
     "id": "1768240336897"
+  },
+  {
+    "name": "New customer ",
+    "mobile": "8602148689",
+    "address": "Kalandi gold",
+    "date": "2026-01-13",
+    "prescriptions": [
+      {
+        "name": "Sumit Narayan",
+        "sphericalR": "1",
+        "sphericalL": "1",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "2",
+        "axisL": "1",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": ""
+      },
+      {
+        "name": "Satu",
+        "sphericalR": "0",
+        "sphericalL": "0",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "1",
+        "axisL": "1",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": ""
+      },
+      {
+        "name": "New key",
+        "sphericalR": "0",
+        "sphericalL": "0",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "1",
+        "axisL": "1",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": ""
+      }
+    ],
+    "remark": "Yes payment received ",
+    "total": "150",
+    "advance": "20",
+    "remaining": 130,
+    "createdAt": "2026-01-12T17:56:29.113Z",
+    "id": "1768240588975"
   }
 ]
