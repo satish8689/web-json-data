@@ -193,5 +193,45 @@
     "remaining": 980,
     "createdAt": "2026-01-13T11:12:20.268Z",
     "id": "1768302745190"
+  },
+  {
+    "name": "Satish Hargod",
+    "mobile": "9617093363",
+    "address": "Kalandi gold",
+    "date": "2026-01-13",
+    "prescriptions": [
+      {
+        "name": "Nityam",
+        "sphericalR": "0.1",
+        "sphericalL": "0.3",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "0.2",
+        "axisL": "0.6",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": ""
+      },
+      {
+        "name": "Bhawana ",
+        "sphericalR": "0.1",
+        "sphericalL": "0.2",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "0.5",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": ""
+      }
+    ],
+    "remark": "Test remark",
+    "total": "1000",
+    "advance": "200",
+    "remaining": 800,
+    "createdAt": "2026-01-13T12:29:13.857Z",
+    "id": "1768307353859"
   }
 ]
