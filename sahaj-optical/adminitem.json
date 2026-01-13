@@ -16,8 +16,8 @@
     "salePrice": 100,
     "originalPrice": 80,
     "quantity": 15,
-    "saleQuantity": 0,
-    "remainingQuantity": 15,
+    "saleQuantity": "5",
+    "remainingQuantity": 10,
     "purchaseDate": "2026-01-13",
     "createdAt": "2026-01-13T12:25:14.693Z"
   }
