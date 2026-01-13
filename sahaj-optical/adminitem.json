@@ -9,5 +9,16 @@
     "remainingQuantity": 8,
     "purchaseDate": "2026-01-15",
     "createdAt": "2026-01-12T17:03:17.770Z"
+  },
+  {
+    "id": "1768307114693",
+    "productName": "Test Name",
+    "salePrice": 100,
+    "originalPrice": 80,
+    "quantity": 15,
+    "saleQuantity": 0,
+    "remainingQuantity": 15,
+    "purchaseDate": "2026-01-13",
+    "createdAt": "2026-01-13T12:25:14.693Z"
   }
 ]
