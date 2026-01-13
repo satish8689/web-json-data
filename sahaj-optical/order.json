@@ -166,5 +166,32 @@
     "remaining": 130,
     "createdAt": "2026-01-12T17:56:29.113Z",
     "id": "1768240588975"
+  },
+  {
+    "name": "Adil",
+    "mobile": "9755650179",
+    "address": "Kalandi Gold City",
+    "date": "2026-01-06",
+    "prescriptions": [
+      {
+        "name": "Adil",
+        "sphericalR": "11",
+        "sphericalL": "33",
+        "cylindricalR": "2",
+        "cylindricalL": "2",
+        "axisR": "0",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": ""
+      }
+    ],
+    "remark": "Add 20 rs",
+    "total": "1000",
+    "advance": "20",
+    "remaining": 980,
+    "createdAt": "2026-01-13T11:12:20.268Z",
+    "id": "1768302745190"
   }
 ]
