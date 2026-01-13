@@ -233,5 +233,32 @@
     "remaining": 800,
     "createdAt": "2026-01-13T12:29:13.857Z",
     "id": "1768307353859"
+  },
+  {
+    "name": "Mr. Vishnu sharma",
+    "mobile": "9893276116",
+    "address": "Kalindi gold city ",
+    "date": "2026-01-13",
+    "prescriptions": [
+      {
+        "name": "Mr. Vishnu sharma ",
+        "sphericalR": "",
+        "sphericalL": "",
+        "cylindricalR": "-0.25",
+        "cylindricalL": "-0.25",
+        "axisR": "70",
+        "axisL": "90",
+        "pdR": "30",
+        "pdL": "30",
+        "addR": "",
+        "addL": ""
+      }
+    ],
+    "remark": "Poly BRC ",
+    "total": "1400",
+    "advance": "1000",
+    "remaining": 400,
+    "createdAt": "2026-01-13T12:50:23.574Z",
+    "id": "1768308625746"
   }
 ]
