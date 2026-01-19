@@ -240,12 +240,27 @@
         "addL": "3",
         "glassname": "New Glass",
         "framename": "New frame"
+      },
+      {
+        "name": "Kanu",
+        "sphericalR": "1",
+        "sphericalL": "1",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "2",
+        "axisL": "2",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "New Glass",
+        "framename": "New Frame"
       }
     ],
     "remark": "Test Remrk",
     "total": "100",
-    "advance": "90",
-    "remaining": 10,
+    "advance": "100",
+    "remaining": 0,
     "createdAt": "2026-01-19T09:30:51.388Z",
     "id": "1768815058453"
   }
