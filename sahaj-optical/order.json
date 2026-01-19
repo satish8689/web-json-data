@@ -204,5 +204,49 @@
     "remaining": 200,
     "createdAt": "2026-01-13T17:00:14.316Z",
     "id": "1768323616462"
+  },
+  {
+    "name": "Satish",
+    "mobile": "8602148689",
+    "address": "Kalandi Gold City",
+    "date": "2026-01-19",
+    "prescriptions": [
+      {
+        "name": "Sanjay Joshi",
+        "sphericalR": "25",
+        "sphericalL": "25",
+        "cylindricalR": "0",
+        "cylindricalL": "0",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "1",
+        "addL": "1",
+        "glassname": "Gloy",
+        "framename": "I frame"
+      },
+      {
+        "name": "Sapna",
+        "sphericalR": "0",
+        "sphericalL": "0",
+        "cylindricalR": "0",
+        "cylindricalL": "0",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "3",
+        "addL": "3",
+        "glassname": "New Glass",
+        "framename": "New frame"
+      }
+    ],
+    "remark": "Test Remrk",
+    "total": "100",
+    "advance": "90",
+    "remaining": 10,
+    "createdAt": "2026-01-19T09:30:51.388Z",
+    "id": "1768815058453"
   }
 ]
