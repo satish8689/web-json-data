@@ -32,33 +32,6 @@
     "id": "1768063931713"
   },
   {
-    "name": "Geeta",
-    "mobile": "123456789",
-    "address": "asdsa",
-    "date": "2026-01-14",
-    "prescriptions": [
-      {
-        "name": "asda",
-        "sphericalR": "1",
-        "sphericalL": "1",
-        "cylindricalR": "",
-        "cylindricalL": "",
-        "axisR": "",
-        "axisL": "",
-        "pdR": "1",
-        "pdL": "-2",
-        "addR": "",
-        "addL": ""
-      }
-    ],
-    "remark": "sadad",
-    "total": "122",
-    "advance": "20",
-    "remaining": 102,
-    "createdAt": "2026-01-10T17:03:17.823Z",
-    "id": "1768064598346"
-  },
-  {
     "name": "Mr. Vishnu sharma",
     "mobile": "9893276116",
     "address": "Kalindi gold city ",
