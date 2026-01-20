@@ -59,46 +59,6 @@
     "id": "1768064598346"
   },
   {
-    "name": "Neelam Dubey",
-    "mobile": "9685342882",
-    "address": "Kalandi gold",
-    "date": "2026-01-12",
-    "prescriptions": [
-      {
-        "name": "Sumit Narayan",
-        "sphericalR": "1",
-        "sphericalL": "1",
-        "cylindricalR": "",
-        "cylindricalL": "",
-        "axisR": "2",
-        "axisL": "1",
-        "pdR": "",
-        "pdL": "",
-        "addR": "",
-        "addL": ""
-      },
-      {
-        "name": "Satu",
-        "sphericalR": "0",
-        "sphericalL": "0",
-        "cylindricalR": "",
-        "cylindricalL": "",
-        "axisR": "1",
-        "axisL": "1",
-        "pdR": "",
-        "pdL": "",
-        "addR": "",
-        "addL": ""
-      }
-    ],
-    "remark": "New address",
-    "total": "100",
-    "advance": "10",
-    "remaining": 90,
-    "createdAt": "2026-01-12T17:52:16.841Z",
-    "id": "1768240336897"
-  },
-  {
     "name": "Mr. Vishnu sharma",
     "mobile": "9893276116",
     "address": "Kalindi gold city ",
