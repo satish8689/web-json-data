@@ -25,5 +25,34 @@
     "remaining": 400,
     "createdAt": "2026-01-13T12:50:23.574Z",
     "id": "1768308625746"
+  },
+  {
+    "name": "Mr. Anil kashikar",
+    "mobile": "9826407540",
+    "address": "Kalindi gold city ",
+    "date": "2026-01-20",
+    "prescriptions": [
+      {
+        "name": "",
+        "sphericalR": "-2.50",
+        "sphericalL": "-2.50",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "HCPG",
+        "framename": "Only lens"
+      }
+    ],
+    "remark": "",
+    "total": "300",
+    "advance": "300",
+    "remaining": 0,
+    "createdAt": "2026-01-20T14:57:04.163Z",
+    "id": "1768921025614"
   }
 ]
