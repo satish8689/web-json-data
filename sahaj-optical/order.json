@@ -177,32 +177,5 @@
     "remaining": 400,
     "createdAt": "2026-01-13T12:50:23.574Z",
     "id": "1768308625746"
-  },
-  {
-    "name": "Heenal",
-    "mobile": "9713688921",
-    "address": "S-48 kalindi gold City",
-    "date": "2026-01-13",
-    "prescriptions": [
-      {
-        "name": "",
-        "sphericalR": "0.25",
-        "sphericalL": "0.25",
-        "cylindricalR": "",
-        "cylindricalL": "",
-        "axisR": "",
-        "axisL": "",
-        "pdR": "",
-        "pdL": "",
-        "addR": "",
-        "addL": ""
-      }
-    ],
-    "remark": "BRC ",
-    "total": "700",
-    "advance": "500",
-    "remaining": 200,
-    "createdAt": "2026-01-13T17:00:14.316Z",
-    "id": "1768323616462"
   }
 ]
