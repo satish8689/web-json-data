@@ -62,7 +62,7 @@
     "date": "2026-01-21",
     "prescriptions": [
       {
-        "name": "",
+        "name": "Heenal",
         "sphericalR": "0.25",
         "sphericalL": "0.25",
         "cylindricalR": "",
@@ -77,7 +77,7 @@
         "framename": ""
       },
       {
-        "name": "",
+        "name": "Hhh",
         "sphericalR": "",
         "sphericalL": "",
         "cylindricalR": "50",
