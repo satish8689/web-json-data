@@ -98,5 +98,34 @@
     "remaining": 0,
     "createdAt": "2026-01-21T12:42:11.433Z",
     "id": "1768999333037"
+  },
+  {
+    "name": "Mr. Roshan neeraj",
+    "mobile": "7089941099",
+    "address": "Shree Krishna enclave ",
+    "date": "2026-01-21",
+    "prescriptions": [
+      {
+        "name": "",
+        "sphericalR": "0.75",
+        "sphericalL": "0.50",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "1.25",
+        "addL": "",
+        "glassname": "HCPGKT ",
+        "framename": "Olive"
+      }
+    ],
+    "remark": "",
+    "total": "600",
+    "advance": "300",
+    "remaining": 300,
+    "createdAt": "2026-01-23T08:17:12.354Z",
+    "id": "1769156234293"
   }
 ]
