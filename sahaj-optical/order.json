@@ -56,50 +56,6 @@
     "id": "1768921025614"
   },
   {
-    "name": "Vikrant acharya",
-    "mobile": "9713688921",
-    "address": "S-48 kalindi gold City",
-    "date": "2026-01-21",
-    "prescriptions": [
-      {
-        "name": "Heenal",
-        "sphericalR": "0.25",
-        "sphericalL": "0.25",
-        "cylindricalR": "",
-        "cylindricalL": "",
-        "axisR": "",
-        "axisL": "",
-        "pdR": "",
-        "pdL": "",
-        "addR": "",
-        "addL": "",
-        "glassname": "",
-        "framename": ""
-      },
-      {
-        "name": "Hhh",
-        "sphericalR": "",
-        "sphericalL": "",
-        "cylindricalR": "50",
-        "cylindricalL": "50",
-        "axisR": "",
-        "axisL": "",
-        "pdR": "",
-        "pdL": "",
-        "addR": "",
-        "addL": "",
-        "glassname": "",
-        "framename": ""
-      }
-    ],
-    "remark": "",
-    "total": "500",
-    "advance": "500",
-    "remaining": 0,
-    "createdAt": "2026-01-21T12:42:11.433Z",
-    "id": "1768999333037"
-  },
-  {
     "name": "Mr. Roshan neeraj",
     "mobile": "7089941099",
     "address": "Shree Krishna enclave ",
