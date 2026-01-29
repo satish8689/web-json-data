@@ -112,5 +112,34 @@
     "remaining": 0,
     "createdAt": "2026-01-29T15:48:40.040Z",
     "id": "1769701721404"
+  },
+  {
+    "name": "Mr. Badriprasad ji",
+    "mobile": "9926583933",
+    "address": "Kalindi ",
+    "date": "2026-01-29",
+    "prescriptions": [
+      {
+        "name": "Mr. Badriprasad ",
+        "sphericalR": "2.50",
+        "sphericalL": "2.50",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "HC",
+        "framename": "Task"
+      }
+    ],
+    "remark": "",
+    "total": "500",
+    "advance": "500",
+    "remaining": 0,
+    "createdAt": "2026-01-29T15:50:26.956Z",
+    "id": "1769701828330"
   }
 ]
