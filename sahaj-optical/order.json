@@ -83,5 +83,34 @@
     "remaining": 300,
     "createdAt": "2026-01-23T08:17:12.354Z",
     "id": "1769156234293"
+  },
+  {
+    "name": "Mr. Vivek ji",
+    "mobile": "7470640065",
+    "address": "Bhangiya ",
+    "date": "2026-01-29",
+    "prescriptions": [
+      {
+        "name": "Mr. Vivek",
+        "sphericalR": "",
+        "sphericalL": "",
+        "cylindricalR": "1.50",
+        "cylindricalL": "1.25",
+        "axisR": "160",
+        "axisL": "10",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC",
+        "framename": "Metal"
+      }
+    ],
+    "remark": "",
+    "total": "950",
+    "advance": "950",
+    "remaining": 0,
+    "createdAt": "2026-01-29T15:48:40.040Z",
+    "id": "1769701721404"
   }
 ]
