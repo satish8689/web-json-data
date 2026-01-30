@@ -257,5 +257,34 @@
     "remaining": 0,
     "createdAt": "2026-01-30T07:51:42.335Z",
     "id": "1769759503910"
+  },
+  {
+    "name": "Mr. Ramprasad ji",
+    "mobile": "9977061632",
+    "address": "Baroli ",
+    "date": "2025-10-25",
+    "prescriptions": [
+      {
+        "name": "Mr. Ramprasad ji",
+        "sphericalR": "-1.00",
+        "sphericalL": "",
+        "cylindricalR": "-3.00",
+        "cylindricalL": "-2.0",
+        "axisR": "80",
+        "axisL": "70",
+        "pdR": "",
+        "pdL": "",
+        "addR": "2.75",
+        "addL": "2.75",
+        "glassname": "HCKT",
+        "framename": "Olive "
+      }
+    ],
+    "remark": "",
+    "total": "650",
+    "advance": "650",
+    "remaining": 0,
+    "createdAt": "2026-01-30T07:55:19.492Z",
+    "id": "1769759720877"
   }
 ]
