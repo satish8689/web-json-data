@@ -402,5 +402,34 @@
     "remaining": 100,
     "createdAt": "2026-01-30T16:34:37.589Z",
     "id": "1769790879101"
+  },
+  {
+    "name": "Mr. Sourabh ",
+    "mobile": "9009335310",
+    "address": "Ganga vihar",
+    "date": "2026-01-30",
+    "prescriptions": [
+      {
+        "name": "Mr. Sourabh ",
+        "sphericalR": "-0.25",
+        "sphericalL": "",
+        "cylindricalR": "-0.25",
+        "cylindricalL": "-0.50",
+        "axisR": "110",
+        "axisL": "60",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC",
+        "framename": "Oreo "
+      }
+    ],
+    "remark": "",
+    "total": "1000",
+    "advance": "200",
+    "remaining": 800,
+    "createdAt": "2026-01-30T16:36:53.344Z",
+    "id": "1769791014844"
   }
 ]
