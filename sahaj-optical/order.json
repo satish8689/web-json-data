@@ -344,5 +344,34 @@
     "remaining": 0,
     "createdAt": "2026-01-30T08:21:58.869Z",
     "id": "1769761320248"
+  },
+  {
+    "name": "Mr. Santosh patware",
+    "mobile": "8959204108",
+    "address": "Shankheshwar ",
+    "date": "2026-01-30",
+    "prescriptions": [
+      {
+        "name": "Mr. Santosh patware",
+        "sphericalR": "2.25",
+        "sphericalL": "225",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "HC",
+        "framename": "Tom man metal"
+      }
+    ],
+    "remark": "",
+    "total": "600",
+    "advance": "600",
+    "remaining": 0,
+    "createdAt": "2026-01-30T16:32:02.509Z",
+    "id": "1769790724100"
   }
 ]
