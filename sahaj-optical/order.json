@@ -228,5 +228,34 @@
     "remaining": 0,
     "createdAt": "2026-01-30T07:47:57.272Z",
     "id": "1769759278709"
+  },
+  {
+    "name": "Mr. Vijay singh",
+    "mobile": "7000968360",
+    "address": "Kalindi ",
+    "date": "2025-10-24",
+    "prescriptions": [
+      {
+        "name": "",
+        "sphericalR": "-2.00",
+        "sphericalL": "-2.00",
+        "cylindricalR": "-0.75",
+        "cylindricalL": "-0.75",
+        "axisR": "90",
+        "axisL": "110",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "HC",
+        "framename": "Indian "
+      }
+    ],
+    "remark": "",
+    "total": "650",
+    "advance": "650",
+    "remaining": 0,
+    "createdAt": "2026-01-30T07:51:42.335Z",
+    "id": "1769759503910"
   }
 ]
