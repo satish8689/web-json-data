@@ -373,5 +373,34 @@
     "remaining": 0,
     "createdAt": "2026-01-30T16:32:02.509Z",
     "id": "1769790724100"
+  },
+  {
+    "name": "Mr. Mukesh gehlot ",
+    "mobile": "9098234864",
+    "address": "Kalindi ",
+    "date": "2026-01-30",
+    "prescriptions": [
+      {
+        "name": "Mr. Mukesh gehlot ",
+        "sphericalR": "1.00",
+        "sphericalL": "",
+        "cylindricalR": "",
+        "cylindricalL": "0.50",
+        "axisR": "",
+        "axisL": "10",
+        "pdR": "",
+        "pdL": "",
+        "addR": "2.50",
+        "addL": "2.50",
+        "glassname": "HCKT",
+        "framename": "Oreo"
+      }
+    ],
+    "remark": "",
+    "total": "600",
+    "advance": "500",
+    "remaining": 100,
+    "createdAt": "2026-01-30T16:34:37.589Z",
+    "id": "1769790879101"
   }
 ]
