@@ -315,5 +315,34 @@
     "remaining": 0,
     "createdAt": "2026-01-30T08:18:05.763Z",
     "id": "1769761088196"
+  },
+  {
+    "name": "Mr. Narayan yadav ",
+    "mobile": "9893157065",
+    "address": "Sangam nagar",
+    "date": "2025-10-25",
+    "prescriptions": [
+      {
+        "name": "Mr narayan ",
+        "sphericalR": "-0.50",
+        "sphericalL": "-0.25",
+        "cylindricalR": "-0.75",
+        "cylindricalL": "-0.50",
+        "axisR": "180",
+        "axisL": "180",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "Mblue",
+        "framename": "Titan"
+      }
+    ],
+    "remark": "",
+    "total": "1350",
+    "advance": "1350",
+    "remaining": 0,
+    "createdAt": "2026-01-30T08:21:58.869Z",
+    "id": "1769761320248"
   }
 ]
