@@ -457,7 +457,7 @@
     "remark": "Tre",
     "total": "1000",
     "advance": 0,
-    "remaining": 300,
+    "remaining": 0,
     "payments": [
       {
         "amount": "100",
@@ -472,6 +472,11 @@
       {
         "amount": "400",
         "date": "2026-02-06",
+        "paymentMode": "cash"
+      },
+      {
+        "amount": "300",
+        "date": "2026-02-05",
         "paymentMode": "cash"
       }
     ],
