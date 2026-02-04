@@ -404,31 +404,31 @@
     "id": "1769790879101"
   },
   {
-    "name": "Mr. Sourabh ",
-    "mobile": "9009335310",
-    "address": "Ganga vihar",
-    "date": "2026-01-30",
+    "name": "Test Order",
+    "mobile": "8602148689",
+    "address": "4-kalandi gold",
+    "date": "2026-02-02",
     "prescriptions": [
       {
-        "name": "Mr. Sourabh ",
-        "sphericalR": "-0.25",
-        "sphericalL": "",
-        "cylindricalR": "-0.25",
-        "cylindricalL": "-0.50",
-        "axisR": "110",
-        "axisL": "60",
+        "name": "Sonu",
+        "sphericalR": "0",
+        "sphericalL": "0",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "0",
+        "axisL": "0",
         "pdR": "",
         "pdL": "",
         "addR": "",
         "addL": "",
-        "glassname": "BRC",
-        "framename": "Oreo "
+        "glassname": "",
+        "framename": ""
       }
     ],
     "remark": "",
-    "total": "1000",
-    "advance": "1000",
-    "remaining": 0,
+    "total": "200",
+    "advance": "98",
+    "remaining": 102,
     "createdAt": "2026-01-30T16:36:53.344Z",
     "id": "1769791014844"
   }
