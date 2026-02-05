@@ -42,5 +42,14 @@
     "remainingQuantity": 0,
     "purchaseDate": "",
     "createdAt": "2026-02-05T09:54:58.131Z"
+  },
+  {
+    "id": "1770285348354",
+    "salePrice": null,
+    "originalPrice": null,
+    "quantity": null,
+    "saleQuantity": null,
+    "remainingQuantity": null,
+    "createdAt": "2026-02-05T09:55:48.354Z"
   }
 ]
