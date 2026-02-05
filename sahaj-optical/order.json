@@ -457,7 +457,7 @@
     "remark": "Trer",
     "total": "1000",
     "advance": 0,
-    "remaining": 0,
+    "remaining": 300,
     "payments": [
       {
         "amount": "100",
@@ -473,16 +473,11 @@
         "amount": "400",
         "date": "2026-02-06",
         "paymentMode": "cash"
-      },
-      {
-        "amount": "300",
-        "date": "2026-02-05",
-        "paymentMode": "cash"
       }
     ],
     "createdAt": "2026-02-04T09:00:23.017Z",
     "id": "1770195624145",
-    "totalPaid": 1000,
+    "totalPaid": 700,
     "status": "completed"
   }
 ]
