@@ -517,5 +517,34 @@
     "totalPaid": 200,
     "createdAt": "2026-02-05T13:29:43.708Z",
     "id": "1770298184460"
+  },
+  {
+    "name": "Mr. Aanad ji",
+    "mobile": "9826032494",
+    "address": "Paradise ",
+    "date": "2026-02-06",
+    "prescriptions": [
+      {
+        "name": "Mr. Aanad ji",
+        "sphericalR": "1.00",
+        "sphericalL": "1.00",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "Poly BRC",
+        "framename": "Only glass"
+      }
+    ],
+    "remark": "",
+    "total": "750",
+    "advance": 0,
+    "remaining": 750,
+    "createdAt": "2026-02-06T07:53:40.130Z",
+    "id": "1770364420756"
   }
 ]
