@@ -768,7 +768,7 @@
       {
         "amount": "100",
         "date": "2026-02-11",
-        "paymentMode": "online"
+        "paymentMode": "cash"
       }
     ],
     "totalPaid": 100,
