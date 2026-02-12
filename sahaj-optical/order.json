@@ -698,5 +698,43 @@
     "totalPaid": 0,
     "createdAt": "2026-02-12T14:03:20.364Z",
     "id": "1770905001456"
+  },
+  {
+    "name": "Mr. Sunny kumar singh ",
+    "mobile": "7992246467",
+    "address": "Lotus park ",
+    "date": "2026-02-11",
+    "prescriptions": [
+      {
+        "name": "Mr. Sunny k. Singh",
+        "sphericalR": "-3.00",
+        "sphericalL": "-2.25",
+        "cylindricalR": "",
+        "cylindricalL": "-0.50",
+        "axisR": "",
+        "axisL": "170",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC",
+        "framename": "Wonder metal"
+      }
+    ],
+    "remark": "",
+    "total": "850",
+    "advance": 0,
+    "remaining": 650,
+    "status": "pending",
+    "payments": [
+      {
+        "amount": "200",
+        "date": "2026-02-11",
+        "paymentMode": "online"
+      }
+    ],
+    "totalPaid": 200,
+    "createdAt": "2026-02-12T14:06:34.115Z",
+    "id": "1770905195153"
   }
 ]
