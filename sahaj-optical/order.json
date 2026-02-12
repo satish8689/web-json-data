@@ -584,5 +584,43 @@
     "totalPaid": 0,
     "createdAt": "2026-02-12T13:51:48.186Z",
     "id": "1770904309348"
+  },
+  {
+    "name": "Mrs.Sangeeta shekhawat ",
+    "mobile": "9340465711",
+    "address": "Primium paradise ",
+    "date": "2026-02-11",
+    "prescriptions": [
+      {
+        "name": "Mast. Rudra",
+        "sphericalR": "-3.50",
+        "sphericalL": "-3.50",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "M.blue",
+        "framename": "Sheet primium "
+      }
+    ],
+    "remark": "",
+    "total": "1200",
+    "advance": 0,
+    "remaining": 0,
+    "status": "pending",
+    "payments": [
+      {
+        "amount": "1200",
+        "date": "2026-02-11",
+        "paymentMode": "online"
+      }
+    ],
+    "totalPaid": 1200,
+    "createdAt": "2026-02-12T13:55:21.051Z",
+    "id": "1770904522150"
   }
 ]
