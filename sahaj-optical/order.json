@@ -774,5 +774,43 @@
     "totalPaid": 100,
     "createdAt": "2026-02-12T14:14:20.710Z",
     "id": "1770905661732"
+  },
+  {
+    "name": "Mr. Himanshu ji",
+    "mobile": "9826625156",
+    "address": "Primium pride ",
+    "date": "2025-12-21",
+    "prescriptions": [
+      {
+        "name": "Mr. Himanshu ",
+        "sphericalR": "-1.00",
+        "sphericalL": "-1.00",
+        "cylindricalR": "",
+        "cylindricalL": "-0.50",
+        "axisR": "",
+        "axisL": "100",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "M.blue",
+        "framename": ""
+      }
+    ],
+    "remark": "",
+    "total": "1400",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "1400",
+        "date": "2025-12-21",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 1400,
+    "createdAt": "2026-02-12T15:00:59.988Z",
+    "id": "1770908462398"
   }
 ]
