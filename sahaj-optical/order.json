@@ -546,5 +546,43 @@
     "remaining": 750,
     "createdAt": "2026-02-06T07:53:40.130Z",
     "id": "1770364420756"
+  },
+  {
+    "name": "Mrs. Sushila jaiswal ",
+    "mobile": "",
+    "address": "Kalindi Gold city",
+    "date": "2026-02-12",
+    "prescriptions": [
+      {
+        "name": "Mrs. Sushila",
+        "sphericalR": "",
+        "sphericalL": "",
+        "cylindricalR": "-1.00",
+        "cylindricalL": "0.75",
+        "axisR": "90",
+        "axisL": "30",
+        "pdR": "",
+        "pdL": "",
+        "addR": "2.50",
+        "addL": "2.50",
+        "glassname": "Hckt",
+        "framename": "Oreo"
+      }
+    ],
+    "remark": "",
+    "total": "700",
+    "advance": 0,
+    "remaining": 700,
+    "status": "pending",
+    "payments": [
+      {
+        "amount": "",
+        "date": "2026-02-12",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 0,
+    "createdAt": "2026-02-12T13:51:48.186Z",
+    "id": "1770904309348"
   }
 ]
