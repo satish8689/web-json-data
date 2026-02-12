@@ -70,5 +70,13 @@
     "address": "Kalindi gold city",
     "createdAt": "2026-02-12T13:58:33.863Z",
     "updatedAt": "2026-02-12T13:58:33.863Z"
+  },
+  {
+    "id": "1770905002316",
+    "name": "Mr. Anil jain",
+    "mobile": "8602875345",
+    "address": "Ganga vihar ",
+    "createdAt": "2026-02-12T14:03:22.316Z",
+    "updatedAt": "2026-02-12T14:03:22.316Z"
   }
 ]
