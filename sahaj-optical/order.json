@@ -314,7 +314,16 @@
     "advance": "650",
     "remaining": 0,
     "createdAt": "2026-01-30T08:18:05.763Z",
-    "id": "1769761088196"
+    "id": "1769761088196",
+    "status": "",
+    "payments": [
+      {
+        "amount": "650",
+        "date": "2025-10-26",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 650
   },
   {
     "name": "Mr. Narayan yadav ",
