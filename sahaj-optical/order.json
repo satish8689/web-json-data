@@ -772,7 +772,7 @@
     "total": "600",
     "advance": 0,
     "remaining": 500,
-    "status": "pending",
+    "status": "completed",
     "payments": [
       {
         "amount": "100",
