@@ -812,5 +812,43 @@
     "totalPaid": 1400,
     "createdAt": "2026-02-12T15:00:59.988Z",
     "id": "1770908462398"
+  },
+  {
+    "name": "Mast yashav Shrivastav",
+    "mobile": "8770609276",
+    "address": "Primium paradise ",
+    "date": "2026-02-13",
+    "prescriptions": [
+      {
+        "name": "Mast yashav ",
+        "sphericalR": "-1.25",
+        "sphericalL": "-1.00",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC",
+        "framename": "Oreo"
+      }
+    ],
+    "remark": "",
+    "total": "700",
+    "advance": 0,
+    "remaining": 0,
+    "status": "pending",
+    "payments": [
+      {
+        "amount": "700",
+        "date": "2026-02-13",
+        "paymentMode": "online"
+      }
+    ],
+    "totalPaid": 700,
+    "createdAt": "2026-02-14T08:19:59.284Z",
+    "id": "1771057200772"
   }
 ]
