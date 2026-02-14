@@ -1011,5 +1011,43 @@
     "totalPaid": 1200,
     "createdAt": "2026-02-14T12:31:25.704Z",
     "id": "1771072287222"
+  },
+  {
+    "name": "Mr. Chandrabhan ",
+    "mobile": "7974556655",
+    "address": "kalindi gold City",
+    "date": "2025-12-22",
+    "prescriptions": [
+      {
+        "name": "Mr chandrabhan ",
+        "sphericalR": "0.00",
+        "sphericalL": "0.00",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC",
+        "framename": ""
+      }
+    ],
+    "remark": "",
+    "total": "750",
+    "advance": 0,
+    "remaining": 0,
+    "status": "pending",
+    "payments": [
+      {
+        "amount": "750",
+        "date": "2025-12-22",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 750,
+    "createdAt": "2026-02-14T12:33:29.675Z",
+    "id": "1771072411213"
   }
 ]
