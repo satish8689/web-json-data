@@ -850,5 +850,43 @@
     "totalPaid": 700,
     "createdAt": "2026-02-14T08:19:59.284Z",
     "id": "1771057200772"
+  },
+  {
+    "name": "Mrs. Anamika",
+    "mobile": "+91 74772 17822",
+    "address": "Sanwer road ",
+    "date": "2026-02-11",
+    "prescriptions": [
+      {
+        "name": "Mrs. Anamika ",
+        "sphericalR": "",
+        "sphericalL": "",
+        "cylindricalR": "-0.25",
+        "cylindricalL": "-0.25",
+        "axisR": "90",
+        "axisL": "110",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "HC",
+        "framename": "Xelton "
+      }
+    ],
+    "remark": "",
+    "total": "500",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "500",
+        "date": "2026-02-11",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 500,
+    "createdAt": "2026-02-14T08:27:04.708Z",
+    "id": "1771057627061"
   }
 ]
