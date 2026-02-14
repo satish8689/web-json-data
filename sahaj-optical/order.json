@@ -223,9 +223,18 @@
     "remark": "",
     "total": "250",
     "advance": "250",
-    "remaining": 0,
+    "remaining": 250,
     "createdAt": "2026-01-29T15:57:46.841Z",
-    "id": "1769702268229"
+    "id": "1769702268229",
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "",
+        "date": "",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 0
   },
   {
     "name": "Mr. B.k. vishvakarma ",
