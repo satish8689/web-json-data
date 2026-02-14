@@ -89,18 +89,18 @@
     "remark": "",
     "total": "600",
     "advance": "300",
-    "remaining": 600,
+    "remaining": 0,
     "createdAt": "2026-01-23T08:17:12.354Z",
     "id": "1769156234293",
     "status": "completed",
     "payments": [
       {
-        "amount": "",
-        "date": "",
+        "amount": "600",
+        "date": "2026-01-24",
         "paymentMode": ""
       }
     ],
-    "totalPaid": 0
+    "totalPaid": 600
   },
   {
     "name": "Mr. Vivek ji",
