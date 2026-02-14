@@ -814,36 +814,36 @@
     "id": "1770908462398"
   },
   {
-    "name": "Mast yashav Shrivastav",
-    "mobile": "8770609276",
-    "address": "Primium paradise ",
-    "date": "2026-02-13",
+    "name": "Mast anurag",
+    "mobile": "7509252014",
+    "address": "Kalindi ",
+    "date": "2026-02-11",
     "prescriptions": [
       {
-        "name": "Mast yashav ",
-        "sphericalR": "-1.25",
-        "sphericalL": "-1.00",
-        "cylindricalR": "",
-        "cylindricalL": "",
-        "axisR": "",
-        "axisL": "",
+        "name": "Mast anurag ",
+        "sphericalR": "",
+        "sphericalL": "",
+        "cylindricalR": "-0.25",
+        "cylindricalL": "-0.50",
+        "axisR": "90",
+        "axisL": "90",
         "pdR": "",
         "pdL": "",
         "addR": "",
         "addL": "",
         "glassname": "BRC",
-        "framename": "Oreo"
+        "framename": "Metal round "
       }
     ],
     "remark": "",
     "total": "700",
     "advance": 0,
     "remaining": 0,
-    "status": "pending",
+    "status": "completed",
     "payments": [
       {
         "amount": "700",
-        "date": "2026-02-13",
+        "date": "2026-02-11",
         "paymentMode": "online"
       }
     ],
