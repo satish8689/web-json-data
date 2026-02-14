@@ -109,9 +109,18 @@
     "remark": "",
     "total": "950",
     "advance": "950",
-    "remaining": 0,
+    "remaining": 950,
     "createdAt": "2026-01-29T15:48:40.040Z",
-    "id": "1769701721404"
+    "id": "1769701721404",
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "",
+        "date": "",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 0
   },
   {
     "name": "Mr. Badriprasad ji",
