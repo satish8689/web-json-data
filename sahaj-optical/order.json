@@ -346,9 +346,18 @@
     "remark": "",
     "total": "650",
     "advance": "650",
-    "remaining": 0,
+    "remaining": 650,
     "createdAt": "2026-01-30T07:55:19.492Z",
-    "id": "1769759720877"
+    "id": "1769759720877",
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "",
+        "date": "",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 0
   },
   {
     "name": "Mr. Kunal kushwah",
