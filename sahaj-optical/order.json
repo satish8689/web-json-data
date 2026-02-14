@@ -897,5 +897,43 @@
     "totalPaid": 500,
     "createdAt": "2026-02-14T08:27:04.708Z",
     "id": "1771057627061"
+  },
+  {
+    "name": "Mast. Nishad",
+    "mobile": "9302327792",
+    "address": "Primium paradise ",
+    "date": "2026-02-14",
+    "prescriptions": [
+      {
+        "name": "Mast. Nishad ",
+        "sphericalR": "-2.75",
+        "sphericalL": "-2.25",
+        "cylindricalR": "",
+        "cylindricalL": "-0.50",
+        "axisR": "",
+        "axisL": "180",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "Mblue",
+        "framename": "TH. Agile"
+      }
+    ],
+    "remark": "",
+    "total": "1300",
+    "advance": 0,
+    "remaining": 0,
+    "status": "pending",
+    "payments": [
+      {
+        "amount": "1300",
+        "date": "2026-02-14",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 1300,
+    "createdAt": "2026-02-14T12:07:33.218Z",
+    "id": "1771070855792"
   }
 ]
