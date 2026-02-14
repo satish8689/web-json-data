@@ -620,7 +620,7 @@
     "total": "1200",
     "advance": 0,
     "remaining": 0,
-    "status": "pending",
+    "status": "completed",
     "payments": [
       {
         "amount": "1200",
