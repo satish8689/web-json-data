@@ -326,9 +326,18 @@
     "remark": "",
     "total": "650",
     "advance": "650",
-    "remaining": 0,
+    "remaining": 650,
     "createdAt": "2026-01-30T07:51:42.335Z",
-    "id": "1769759503910"
+    "id": "1769759503910",
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "",
+        "date": "",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 0
   },
   {
     "name": "Mr. Ramprasad ji",
