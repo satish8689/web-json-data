@@ -288,9 +288,18 @@
     "remark": "",
     "total": "120",
     "advance": "120",
-    "remaining": 0,
+    "remaining": 120,
     "createdAt": "2026-01-30T07:47:57.272Z",
-    "id": "1769759278709"
+    "id": "1769759278709",
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "",
+        "date": "",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 0
   },
   {
     "name": "Mr. Vijay singh",
