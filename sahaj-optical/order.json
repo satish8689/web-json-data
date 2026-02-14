@@ -22,9 +22,18 @@
     "remark": "Poly BRC ",
     "total": "1400",
     "advance": "1000",
-    "remaining": 400,
+    "remaining": 1000,
     "createdAt": "2026-01-13T12:50:23.574Z",
-    "id": "1768308625746"
+    "id": "1768308625746",
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "400",
+        "date": "2026-01-30",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 400
   },
   {
     "name": "Mr. Anil kashikar",
