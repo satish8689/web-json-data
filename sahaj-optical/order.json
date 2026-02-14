@@ -496,44 +496,6 @@
     "id": "1769791014844"
   },
   {
-    "name": "Test 3",
-    "mobile": "7885547955",
-    "address": "Fhjh",
-    "date": "2026-01-23",
-    "prescriptions": [
-      {
-        "name": "",
-        "sphericalR": "5",
-        "sphericalL": "5",
-        "cylindricalR": "",
-        "cylindricalL": "",
-        "axisR": "",
-        "axisL": "",
-        "pdR": "",
-        "pdL": "",
-        "addR": "",
-        "addL": "",
-        "glassname": "",
-        "framename": ""
-      }
-    ],
-    "remark": "Delivery date 5/2/26",
-    "total": "500",
-    "advance": 0,
-    "remaining": 300,
-    "status": "in-progress",
-    "payments": [
-      {
-        "amount": "200",
-        "date": "2026-01-23",
-        "paymentMode": "online"
-      }
-    ],
-    "totalPaid": 200,
-    "createdAt": "2026-02-05T13:29:43.708Z",
-    "id": "1770298184460"
-  },
-  {
     "name": "Mr. Aanad ji",
     "mobile": "9826032494",
     "address": "Paradise ",
