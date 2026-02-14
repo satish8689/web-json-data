@@ -422,9 +422,18 @@
     "remark": "",
     "total": "1350",
     "advance": "1350",
-    "remaining": 0,
+    "remaining": 1350,
     "createdAt": "2026-01-30T08:21:58.869Z",
-    "id": "1769761320248"
+    "id": "1769761320248",
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "",
+        "date": "",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 0
   },
   {
     "name": "Mr. Santosh patware",
