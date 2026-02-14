@@ -126,5 +126,13 @@
     "address": "Sanwer road ",
     "createdAt": "2026-02-14T08:27:07.858Z",
     "updatedAt": "2026-02-14T08:27:07.858Z"
+  },
+  {
+    "id": "1771057772021",
+    "name": "Mr. Kunal kushwah",
+    "mobile": "9131122691",
+    "address": "Shree shyam mob. Kalindi ",
+    "createdAt": "2026-02-14T08:29:32.021Z",
+    "updatedAt": "2026-02-14T08:29:32.021Z"
   }
 ]
