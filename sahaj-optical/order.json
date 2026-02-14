@@ -442,54 +442,6 @@
     "id": "1769791014844"
   },
   {
-    "name": "Test Payment ",
-    "mobile": "8602148689",
-    "address": "Kalindi Gold",
-    "date": "2026-02-05",
-    "prescriptions": [
-      {
-        "name": "New Order",
-        "sphericalR": "0",
-        "sphericalL": "0",
-        "cylindricalR": "0",
-        "cylindricalL": "",
-        "axisR": "",
-        "axisL": "",
-        "pdR": "",
-        "pdL": "-1",
-        "addR": "",
-        "addL": "",
-        "glassname": "Ne glass",
-        "framename": "R fream"
-      }
-    ],
-    "remark": "Trer",
-    "total": "1000",
-    "advance": 0,
-    "remaining": 300,
-    "payments": [
-      {
-        "amount": "100",
-        "date": "2026-02-04",
-        "paymentMode": "cash"
-      },
-      {
-        "amount": "200",
-        "date": "2026-02-05",
-        "paymentMode": "online"
-      },
-      {
-        "amount": "400",
-        "date": "2026-02-06",
-        "paymentMode": "cash"
-      }
-    ],
-    "createdAt": "2026-02-04T09:00:23.017Z",
-    "id": "1770195624145",
-    "totalPaid": 700,
-    "status": "completed"
-  },
-  {
     "name": "Test 3",
     "mobile": "7885547955",
     "address": "Fhjh",
