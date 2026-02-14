@@ -51,9 +51,18 @@
     "remark": "",
     "total": "300",
     "advance": "300",
-    "remaining": 0,
+    "remaining": 300,
     "createdAt": "2026-01-20T14:57:04.163Z",
-    "id": "1768921025614"
+    "id": "1768921025614",
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "",
+        "date": "",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 0
   },
   {
     "name": "Mr. Roshan neeraj",
