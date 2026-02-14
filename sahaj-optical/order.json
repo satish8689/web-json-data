@@ -417,9 +417,18 @@
     "remark": "",
     "total": "600",
     "advance": "500",
-    "remaining": 100,
+    "remaining": 600,
     "createdAt": "2026-01-30T16:34:37.589Z",
-    "id": "1769790879101"
+    "id": "1769790879101",
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "",
+        "date": "",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 0
   },
   {
     "name": "Test Order",
