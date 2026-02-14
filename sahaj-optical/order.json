@@ -185,9 +185,18 @@
     "remark": "",
     "total": "500",
     "advance": "500",
-    "remaining": 0,
+    "remaining": 500,
     "createdAt": "2026-01-29T15:54:05.339Z",
-    "id": "1769702046690"
+    "id": "1769702046690",
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "",
+        "date": "",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 0
   },
   {
     "name": "Mr. Karan mahar",
