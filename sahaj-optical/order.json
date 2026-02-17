@@ -668,16 +668,21 @@
     "remark": "",
     "total": "900",
     "advance": 0,
-    "remaining": 100,
-    "status": "pending",
+    "remaining": 0,
+    "status": "completed",
     "payments": [
       {
         "amount": "800",
         "date": "2026-02-11",
         "paymentMode": "online"
+      },
+      {
+        "amount": "100",
+        "date": "2026-02-17",
+        "paymentMode": "online"
       }
     ],
-    "totalPaid": 800,
+    "totalPaid": 900,
     "createdAt": "2026-02-12T13:58:31.855Z",
     "id": "1770904712982"
   },
