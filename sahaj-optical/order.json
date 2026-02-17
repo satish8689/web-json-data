@@ -1221,8 +1221,8 @@
     "prescriptions": [
       {
         "name": "Mr. Vishwas ji",
-        "sphericalR": "",
-        "sphericalL": "",
+        "sphericalR": "0.00",
+        "sphericalL": "0.00",
         "cylindricalR": "",
         "cylindricalL": "",
         "axisR": "",
@@ -1232,7 +1232,7 @@
         "addR": "",
         "addL": "",
         "glassname": "O2",
-        "framename": ""
+        "framename": "Knight hours "
       }
     ],
     "remark": "",
