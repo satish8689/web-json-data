@@ -1369,5 +1369,43 @@
     "totalPaid": 500,
     "createdAt": "2026-02-19T10:38:54.348Z",
     "id": "1771497535263"
+  },
+  {
+    "name": "Mrs Jyoti bariya",
+    "mobile": "8085881277",
+    "address": "Bhangya",
+    "date": "2026-02-17",
+    "prescriptions": [
+      {
+        "name": "Mrs Jyoti bariya ",
+        "sphericalR": "-1.75",
+        "sphericalL": "-1.50",
+        "cylindricalR": "-0.50",
+        "cylindricalL": "-0.75",
+        "axisR": "110",
+        "axisL": "60",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC ",
+        "framename": "Task"
+      }
+    ],
+    "remark": "",
+    "total": "700",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "700",
+        "date": "2026-02-17",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 700,
+    "createdAt": "2026-02-19T10:41:20.635Z",
+    "id": "1771497681531"
   }
 ]
