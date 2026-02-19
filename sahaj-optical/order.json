@@ -1407,5 +1407,48 @@
     "totalPaid": 700,
     "createdAt": "2026-02-19T10:41:20.635Z",
     "id": "1771497681531"
+  },
+  {
+    "name": "Mr. Babulal ",
+    "mobile": "9111100482",
+    "address": "Primium park ",
+    "date": "2026-02-17",
+    "prescriptions": [
+      {
+        "name": "Mr. Babulal ",
+        "sphericalR": "",
+        "sphericalL": "1.25",
+        "cylindricalR": "1.00",
+        "cylindricalL": "0.50",
+        "axisR": "20",
+        "axisL": "170",
+        "pdR": "",
+        "pdL": "",
+        "addR": "2.50",
+        "addL": "2.50",
+        "glassname": "HCKT ",
+        "framename": "Full broad "
+      }
+    ],
+    "remark": "",
+    "total": "700",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "500",
+        "date": "2026-02-17",
+        "paymentMode": ""
+      },
+      {
+        "amount": "200",
+        "date": "2026-02-19",
+        "paymentMode": "online"
+      }
+    ],
+    "totalPaid": 700,
+    "createdAt": "2026-02-19T10:44:40.305Z",
+    "id": "1771497881267"
   }
 ]
