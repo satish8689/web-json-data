@@ -1450,48 +1450,5 @@
     "totalPaid": 700,
     "createdAt": "2026-02-19T10:44:40.305Z",
     "id": "1771497881267"
-  },
-  {
-    "name": "Piyush ",
-    "mobile": "9691244505",
-    "address": "Dewas",
-    "date": "2026-02-20",
-    "prescriptions": [
-      {
-        "name": "Mr. Piyush",
-        "sphericalR": "",
-        "sphericalL": "",
-        "cylindricalR": "",
-        "cylindricalL": "",
-        "axisR": "",
-        "axisL": "",
-        "pdR": "",
-        "pdL": "",
-        "addR": "",
-        "addL": "",
-        "glassname": "",
-        "framename": ""
-      }
-    ],
-    "remark": "",
-    "total": "500",
-    "advance": 0,
-    "remaining": 300,
-    "status": "pending",
-    "payments": [
-      {
-        "amount": "200",
-        "date": "2026-02-20",
-        "paymentMode": ""
-      },
-      {
-        "amount": "",
-        "date": "",
-        "paymentMode": ""
-      }
-    ],
-    "totalPaid": 200,
-    "createdAt": "2026-02-20T13:30:30.555Z",
-    "id": "1771594232888"
   }
 ]
