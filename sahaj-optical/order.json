@@ -1320,7 +1320,7 @@
     "total": "400",
     "advance": 0,
     "remaining": 200,
-    "status": "in-progress",
+    "status": "completed",
     "payments": [
       {
         "amount": "200",
