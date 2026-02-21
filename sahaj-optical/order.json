@@ -1091,16 +1091,21 @@
     "remark": "",
     "total": "1300",
     "advance": 0,
-    "remaining": 800,
-    "status": "in-progress",
+    "remaining": 0,
+    "status": "completed",
     "payments": [
       {
         "amount": "500",
         "date": "2026-02-15",
         "paymentMode": ""
+      },
+      {
+        "amount": "800",
+        "date": "2026-02-20",
+        "paymentMode": "online"
       }
     ],
-    "totalPaid": 500,
+    "totalPaid": 1300,
     "createdAt": "2026-02-15T15:28:35.137Z",
     "id": "1771169317122"
   },
