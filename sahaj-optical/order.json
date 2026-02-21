@@ -1362,21 +1362,16 @@
     "remark": "",
     "total": "800",
     "advance": 0,
-    "remaining": 0,
+    "remaining": 300,
     "status": "completed",
     "payments": [
       {
         "amount": "500",
         "date": "2026-02-17",
         "paymentMode": ""
-      },
-      {
-        "amount": "300",
-        "date": "2026-02-20",
-        "paymentMode": ""
       }
     ],
-    "totalPaid": 800,
+    "totalPaid": 500,
     "createdAt": "2026-02-19T10:38:54.348Z",
     "id": "1771497535263"
   },
