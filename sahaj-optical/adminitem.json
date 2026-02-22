@@ -20,5 +20,16 @@
     "remainingQuantity": 10,
     "purchaseDate": "2026-01-13",
     "createdAt": "2026-01-13T12:25:14.693Z"
+  },
+  {
+    "id": "1771736225858",
+    "productName": "Tom hil",
+    "salePrice": 450,
+    "originalPrice": 1010,
+    "quantity": 1,
+    "saleQuantity": 0,
+    "remainingQuantity": 1,
+    "purchaseDate": "2026-02-01",
+    "createdAt": "2026-02-22T04:57:05.858Z"
   }
 ]
