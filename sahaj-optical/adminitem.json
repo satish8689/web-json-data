@@ -35,11 +35,12 @@
   {
     "id": "1771779826381",
     "productName": "4see polymide ",
-    "salePrice": null,
-    "originalPrice": null,
-    "quantity": null,
-    "saleQuantity": null,
-    "remainingQuantity": null,
-    "createdAt": "2026-02-22T17:03:46.381Z"
+    "salePrice": "300",
+    "originalPrice": "3599",
+    "quantity": "13",
+    "saleQuantity": "0",
+    "remainingQuantity": 13,
+    "createdAt": "2026-02-22T17:03:46.381Z",
+    "purchaseDate": "2026-02-21"
   }
 ]
