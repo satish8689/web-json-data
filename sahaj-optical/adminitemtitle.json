@@ -201,5 +201,15 @@
     "saleQuantity": null,
     "remainingQuantity": null,
     "createdAt": "2026-02-22T17:35:48.816Z"
+  },
+  {
+    "id": "1771781900109",
+    "productName": "Worth indian metal ",
+    "salePrice": null,
+    "originalPrice": null,
+    "quantity": null,
+    "saleQuantity": null,
+    "remainingQuantity": null,
+    "createdAt": "2026-02-22T17:38:20.109Z"
   }
 ]
