@@ -71,5 +71,15 @@
     "saleQuantity": null,
     "remainingQuantity": null,
     "createdAt": "2026-02-07T06:53:06.087Z"
+  },
+  {
+    "id": "1771740622405",
+    "productName": "Fogg",
+    "salePrice": null,
+    "originalPrice": null,
+    "quantity": null,
+    "saleQuantity": null,
+    "remainingQuantity": null,
+    "createdAt": "2026-02-22T06:10:22.405Z"
   }
 ]
