@@ -119,5 +119,16 @@
     "remainingQuantity": 5,
     "createdAt": "2026-02-22T17:34:24.803Z",
     "purchaseDate": "2026-02-21"
+  },
+  {
+    "id": "1771781809720",
+    "productName": "Miles broad FF ",
+    "salePrice": 350,
+    "originalPrice": 65145,
+    "quantity": 5,
+    "saleQuantity": 0,
+    "remainingQuantity": 5,
+    "purchaseDate": "2026-02-21",
+    "createdAt": "2026-02-22T17:36:49.721Z"
   }
 ]
