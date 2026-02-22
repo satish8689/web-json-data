@@ -121,5 +121,15 @@
     "saleQuantity": null,
     "remainingQuantity": null,
     "createdAt": "2026-02-22T17:09:08.125Z"
+  },
+  {
+    "id": "1771780322321",
+    "productName": "Fogg/glacier ",
+    "salePrice": null,
+    "originalPrice": null,
+    "quantity": null,
+    "saleQuantity": null,
+    "remainingQuantity": null,
+    "createdAt": "2026-02-22T17:12:02.321Z"
   }
 ]
