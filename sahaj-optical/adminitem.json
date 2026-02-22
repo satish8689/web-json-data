@@ -64,5 +64,16 @@
     "remainingQuantity": 12,
     "purchaseDate": "2026-02-21",
     "createdAt": "2026-02-22T17:16:14.079Z"
+  },
+  {
+    "id": "1771780685580",
+    "productName": "Lenskart 899/999",
+    "salePrice": 450,
+    "originalPrice": 60190,
+    "quantity": 9,
+    "saleQuantity": 0,
+    "remainingQuantity": 9,
+    "purchaseDate": "2026-02-21",
+    "createdAt": "2026-02-22T17:18:05.580Z"
   }
 ]
