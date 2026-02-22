@@ -11,17 +11,6 @@
     "createdAt": "2026-01-12T17:03:17.770Z"
   },
   {
-    "id": "1768307114693",
-    "productName": "Test Name",
-    "salePrice": 100,
-    "originalPrice": 80,
-    "quantity": 15,
-    "saleQuantity": "5",
-    "remainingQuantity": 10,
-    "purchaseDate": "2026-01-13",
-    "createdAt": "2026-01-13T12:25:14.693Z"
-  },
-  {
     "id": "1771736225858",
     "productName": "Tom hil",
     "salePrice": 450,
