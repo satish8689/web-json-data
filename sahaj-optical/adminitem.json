@@ -53,5 +53,16 @@
     "remainingQuantity": 19,
     "purchaseDate": "2026-02-21",
     "createdAt": "2026-02-22T17:13:33.758Z"
+  },
+  {
+    "id": "1771780574079",
+    "productName": "Lenskart 1499",
+    "salePrice": 600,
+    "originalPrice": 90290,
+    "quantity": 12,
+    "saleQuantity": 0,
+    "remainingQuantity": 12,
+    "purchaseDate": "2026-02-21",
+    "createdAt": "2026-02-22T17:16:14.079Z"
   }
 ]
