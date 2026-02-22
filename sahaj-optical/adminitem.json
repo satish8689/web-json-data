@@ -75,5 +75,16 @@
     "remainingQuantity": 9,
     "purchaseDate": "2026-02-21",
     "createdAt": "2026-02-22T17:18:05.580Z"
+  },
+  {
+    "id": "1771781364194",
+    "productName": "Pacal broad FF",
+    "salePrice": 350,
+    "originalPrice": 65160,
+    "quantity": 7,
+    "saleQuantity": 0,
+    "remainingQuantity": 7,
+    "purchaseDate": "2026-02-21",
+    "createdAt": "2026-02-22T17:29:24.194Z"
   }
 ]
