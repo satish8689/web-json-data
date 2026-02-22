@@ -112,11 +112,12 @@
   {
     "id": "1771781664803",
     "productName": "OCTTALE broad FF ",
-    "salePrice": null,
-    "originalPrice": null,
-    "quantity": null,
-    "saleQuantity": null,
-    "remainingQuantity": null,
-    "createdAt": "2026-02-22T17:34:24.803Z"
+    "salePrice": "350",
+    "originalPrice": "65155",
+    "quantity": "5",
+    "saleQuantity": "0",
+    "remainingQuantity": 5,
+    "createdAt": "2026-02-22T17:34:24.803Z",
+    "purchaseDate": "2026-02-21"
   }
 ]
