@@ -42,5 +42,16 @@
     "remainingQuantity": 13,
     "createdAt": "2026-02-22T17:03:46.381Z",
     "purchaseDate": "2026-02-21"
+  },
+  {
+    "id": "1771780236506",
+    "productName": "Emperor ",
+    "salePrice": 350,
+    "originalPrice": 55230,
+    "quantity": 14,
+    "saleQuantity": 0,
+    "remainingQuantity": 14,
+    "purchaseDate": "2026-02-21",
+    "createdAt": "2026-02-22T17:10:36.506Z"
   }
 ]
