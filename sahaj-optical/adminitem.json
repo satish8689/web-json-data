@@ -130,5 +130,16 @@
     "remainingQuantity": 5,
     "purchaseDate": "2026-02-21",
     "createdAt": "2026-02-22T17:36:49.721Z"
+  },
+  {
+    "id": "1771781945387",
+    "productName": "Worth indian metal ",
+    "salePrice": 350,
+    "originalPrice": 75180,
+    "quantity": 2,
+    "saleQuantity": 0,
+    "remainingQuantity": 2,
+    "purchaseDate": "2026-02-21",
+    "createdAt": "2026-02-22T17:39:05.387Z"
   }
 ]
