@@ -24,11 +24,11 @@
   {
     "id": "1771740801347",
     "productName": "Rossella ",
-    "salePrice": null,
-    "originalPrice": null,
-    "quantity": null,
-    "saleQuantity": null,
-    "remainingQuantity": null,
+    "salePrice": "450",
+    "originalPrice": "1180",
+    "quantity": "5",
+    "saleQuantity": "0",
+    "remainingQuantity": 5,
     "purchaseDate": "2026-02-21",
     "createdAt": "2026-02-22T06:13:21.347Z"
   }
