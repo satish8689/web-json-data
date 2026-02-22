@@ -97,5 +97,16 @@
     "remainingQuantity": 5,
     "purchaseDate": "2026-02-21",
     "createdAt": "2026-02-22T17:31:14.727Z"
+  },
+  {
+    "id": "1771781583631",
+    "productName": "IDFJUF Broad FF ",
+    "salePrice": 350,
+    "originalPrice": 65155,
+    "quantity": 3,
+    "saleQuantity": 0,
+    "remainingQuantity": 3,
+    "purchaseDate": "2026-02-21",
+    "createdAt": "2026-02-22T17:33:03.631Z"
   }
 ]
