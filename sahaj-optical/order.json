@@ -1546,5 +1546,43 @@
     "totalPaid": 300,
     "createdAt": "2026-03-06T12:04:52.318Z",
     "id": "1772798693608"
+  },
+  {
+    "name": "Mr. Mithilesh ",
+    "mobile": "7772864363",
+    "address": "Kalindi ",
+    "date": "2025-01-02",
+    "prescriptions": [
+      {
+        "name": "Mr. Mithilesh ",
+        "sphericalR": "",
+        "sphericalL": "",
+        "cylindricalR": "-0.25",
+        "cylindricalL": "-0.25",
+        "axisR": "120",
+        "axisL": "40",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC ",
+        "framename": ""
+      }
+    ],
+    "remark": "",
+    "total": "650",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "650",
+        "date": "2025-01-02",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 650,
+    "createdAt": "2026-03-06T12:10:04.932Z",
+    "id": "1772799006318"
   }
 ]
