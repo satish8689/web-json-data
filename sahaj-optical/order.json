@@ -1584,5 +1584,43 @@
     "totalPaid": 650,
     "createdAt": "2026-03-06T12:10:04.932Z",
     "id": "1772799006318"
+  },
+  {
+    "name": "Ms. usha ",
+    "mobile": "9893642075",
+    "address": "Kalindi ",
+    "date": "2025-01-02",
+    "prescriptions": [
+      {
+        "name": "Ms. Usha",
+        "sphericalR": "-5.50",
+        "sphericalL": "-5.50",
+        "cylindricalR": "-0.50",
+        "cylindricalL": "-0.50",
+        "axisR": "30",
+        "axisL": "140",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "M blue ",
+        "framename": ""
+      }
+    ],
+    "remark": "",
+    "total": "1100",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "1100",
+        "date": "2025-01-02",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 1100,
+    "createdAt": "2026-03-06T12:13:05.424Z",
+    "id": "1772799186665"
   }
 ]
