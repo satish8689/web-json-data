@@ -251,5 +251,15 @@
     "saleQuantity": null,
     "remainingQuantity": null,
     "createdAt": "2026-03-07T06:58:10.947Z"
+  },
+  {
+    "id": "1772866771951",
+    "productName": "Tomy 3",
+    "salePrice": null,
+    "originalPrice": null,
+    "quantity": null,
+    "saleQuantity": null,
+    "remainingQuantity": null,
+    "createdAt": "2026-03-07T06:59:31.951Z"
   }
 ]
