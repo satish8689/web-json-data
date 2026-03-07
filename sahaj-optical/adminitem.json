@@ -141,16 +141,5 @@
     "remainingQuantity": 2,
     "purchaseDate": "2026-02-21",
     "createdAt": "2026-02-22T17:39:05.387Z"
-  },
-  {
-    "id": "1772866711778",
-    "productName": "Tomyw2",
-    "salePrice": 333,
-    "originalPrice": 65155,
-    "quantity": 6,
-    "saleQuantity": 0,
-    "remainingQuantity": 6,
-    "purchaseDate": "2026-03-07",
-    "createdAt": "2026-03-07T06:58:31.778Z"
   }
 ]
