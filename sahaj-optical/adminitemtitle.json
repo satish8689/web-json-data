@@ -221,5 +221,15 @@
     "saleQuantity": null,
     "remainingQuantity": null,
     "createdAt": "2026-03-05T13:26:36.171Z"
+  },
+  {
+    "id": "1772866539415",
+    "productName": "New title",
+    "salePrice": null,
+    "originalPrice": null,
+    "quantity": null,
+    "saleQuantity": null,
+    "remainingQuantity": null,
+    "createdAt": "2026-03-07T06:55:39.415Z"
   }
 ]
