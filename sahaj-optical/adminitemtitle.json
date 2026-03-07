@@ -231,5 +231,15 @@
     "saleQuantity": null,
     "remainingQuantity": null,
     "createdAt": "2026-03-07T06:55:39.415Z"
+  },
+  {
+    "id": "1772866641326",
+    "productName": "Tomy",
+    "salePrice": null,
+    "originalPrice": null,
+    "quantity": null,
+    "saleQuantity": null,
+    "remainingQuantity": null,
+    "createdAt": "2026-03-07T06:57:21.326Z"
   }
 ]
