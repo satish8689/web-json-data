@@ -751,5 +751,11 @@
     "question": "SQL query to find second highest salary?",
     "type": "sql",
     "answer": "<div className='sql-box'></div>"
+  },
+  {
+    "id": "1773845329705",
+    "question": "Test New QW",
+    "type": "others",
+    "answer": "Check My Data"
   }
 ]
