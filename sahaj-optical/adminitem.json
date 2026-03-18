@@ -1,1 +1,145 @@
-[]
+[
+  {
+    "id": "1771736225858",
+    "productName": "Tom hil",
+    "salePrice": 450,
+    "originalPrice": "100250",
+    "quantity": 1,
+    "saleQuantity": 0,
+    "remainingQuantity": 1,
+    "purchaseDate": "2026-02-21",
+    "createdAt": "2026-02-22T04:57:05.858Z"
+  },
+  {
+    "id": "1771740801347",
+    "productName": "Rossella ",
+    "salePrice": "450",
+    "originalPrice": "80199",
+    "quantity": "5",
+    "saleQuantity": "0",
+    "remainingQuantity": 5,
+    "purchaseDate": "2026-02-21",
+    "createdAt": "2026-02-22T06:13:21.347Z"
+  },
+  {
+    "id": "1771779826381",
+    "productName": "4see polymide ",
+    "salePrice": "300",
+    "originalPrice": "35140",
+    "quantity": "13",
+    "saleQuantity": "0",
+    "remainingQuantity": 13,
+    "createdAt": "2026-02-22T17:03:46.381Z",
+    "purchaseDate": "2026-02-21"
+  },
+  {
+    "id": "1771780236506",
+    "productName": "Emperor ",
+    "salePrice": 350,
+    "originalPrice": 55230,
+    "quantity": 14,
+    "saleQuantity": 0,
+    "remainingQuantity": 14,
+    "purchaseDate": "2026-02-21",
+    "createdAt": "2026-02-22T17:10:36.506Z"
+  },
+  {
+    "id": "1771780413758",
+    "productName": "Fogg/glacier ",
+    "salePrice": 300,
+    "originalPrice": 40150,
+    "quantity": 19,
+    "saleQuantity": 0,
+    "remainingQuantity": 19,
+    "purchaseDate": "2026-02-21",
+    "createdAt": "2026-02-22T17:13:33.758Z"
+  },
+  {
+    "id": "1771780574079",
+    "productName": "Lenskart 1499",
+    "salePrice": 600,
+    "originalPrice": 90290,
+    "quantity": 12,
+    "saleQuantity": 0,
+    "remainingQuantity": 12,
+    "purchaseDate": "2026-02-21",
+    "createdAt": "2026-02-22T17:16:14.079Z"
+  },
+  {
+    "id": "1771780685580",
+    "productName": "Lenskart 899/999",
+    "salePrice": 450,
+    "originalPrice": 60190,
+    "quantity": 9,
+    "saleQuantity": 0,
+    "remainingQuantity": 9,
+    "purchaseDate": "2026-02-21",
+    "createdAt": "2026-02-22T17:18:05.580Z"
+  },
+  {
+    "id": "1771781364194",
+    "productName": "Pacal broad FF",
+    "salePrice": 350,
+    "originalPrice": 65160,
+    "quantity": 7,
+    "saleQuantity": 0,
+    "remainingQuantity": 7,
+    "purchaseDate": "2026-02-21",
+    "createdAt": "2026-02-22T17:29:24.194Z"
+  },
+  {
+    "id": "1771781474727",
+    "productName": "GVKKL Broad FF ",
+    "salePrice": 350,
+    "originalPrice": 65150,
+    "quantity": 5,
+    "saleQuantity": 0,
+    "remainingQuantity": 5,
+    "purchaseDate": "2026-02-21",
+    "createdAt": "2026-02-22T17:31:14.727Z"
+  },
+  {
+    "id": "1771781583631",
+    "productName": "IDFJUF Broad FF ",
+    "salePrice": 350,
+    "originalPrice": 65155,
+    "quantity": 3,
+    "saleQuantity": 0,
+    "remainingQuantity": 3,
+    "purchaseDate": "2026-02-21",
+    "createdAt": "2026-02-22T17:33:03.631Z"
+  },
+  {
+    "id": "1771781664803",
+    "productName": "OCTTALE broad FF ",
+    "salePrice": "350",
+    "originalPrice": "65155",
+    "quantity": "5",
+    "saleQuantity": "0",
+    "remainingQuantity": 5,
+    "createdAt": "2026-02-22T17:34:24.803Z",
+    "purchaseDate": "2026-02-21"
+  },
+  {
+    "id": "1771781809720",
+    "productName": "Miles broad FF ",
+    "salePrice": 350,
+    "originalPrice": 65145,
+    "quantity": 5,
+    "saleQuantity": 0,
+    "remainingQuantity": 5,
+    "purchaseDate": "2026-02-21",
+    "createdAt": "2026-02-22T17:36:49.721Z"
+  },
+  {
+    "id": "1771781945387",
+    "productName": "Worth indian metal ",
+    "salePrice": 350,
+    "originalPrice": 75180,
+    "quantity": 2,
+    "saleQuantity": 0,
+    "remainingQuantity": 2,
+    "purchaseDate": "2026-02-21",
+    "createdAt": "2026-02-22T17:39:05.387Z"
+  }
+]
