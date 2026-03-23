@@ -314,7 +314,7 @@
   {
     "question": "What does event-driven programming mean?",
     "type": "node",
-    "answer": "<div className='node-answer'>\nNode.js follows an event-driven, non-blocking architecture, where operations are executed asynchronously using the event loop. Even though it runs on a single thread, it efficiently handles multiple requests without blocking execution. It uses the EventEmitter module to create and manage custom events through emitters and listeners.<br/><br/>\n\nA practical real-world example is a food ordering system. When a customer places an order, an \"orderPlaced\" event is emitted. The kitchen, acting as a listener, starts preparing the food. Once the food is ready, another event like \"orderReady\" is triggered, and the waiter serves the order. <br/><br/>\n\nThis demonstrates how Node.js handles multiple operations asynchronously by emitting events and allowing different parts of the system to respond independently, making the application highly scalable and efficient.\n</div>",
+    "answer": "<div className='node-answer'>\nNode.js follows an event-driven, non-blocking architecture, where operations are executed asynchronously using the event loop. Even though it runs on a single thread, it efficiently handles multiple requests without blocking execution. It uses the EventEmitter module to create and manage custom events through emitters and listeners.<br/><br/>\n\nA practical real-world example is a food ordering system. When a customer places an order, an \"orderPlaced\" event is emitted. The kitchen, acting as a listener, starts preparing the food. Once the food is ready, another event like \"orderReady\" is triggered, and the waiter serves the order. <br/><br/>\n</div>",
     "id": "q_1773847433303_52"
   },
   {
