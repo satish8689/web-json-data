@@ -907,5 +907,11 @@
     "question": "Gap Reasons ",
     "type": "personal",
     "answer": "Took a break due to a family medical emergency; After the situation was resolved, I tried to resume my role at the same company, but the position had already been filled, so after that i joined a new company enoah i solution."
+  },
+  {
+    "id": "1774933634145",
+    "question": "Role and responsibility",
+    "type": "personal",
+    "answer": "<div class=\"self-intro\">\n  Currently, I am working as a full-stack developer with hands-on experience in React.js, Node.js, and AWS Lambda functions.<br><br>\n\n  Along with development, I take ownership of task planning and team coordination. I work closely with the Manager and Team Lead to understand requirements and then break them down into smaller, actionable tasks.<br><br>\n\n  I proactively assign tasks to team members based on their strengths and ensure smooth execution by guiding them whenever needed.<br><br>\n\n  I am responsible for maintaining code quality by conducting detailed code reviews and ensuring best practices are followed across the team. I also perform unit testing to validate functionality before merging the code into sub-branches.<br><br>\n\n  Additionally, I manage version control using GitHub and Bitbucket, and track progress through JIRA to ensure timely delivery.<br><br>\n\n  Once the development cycle is completed, I coordinate with the Team Lead and QA team to ensure proper testing, feedback handling, and smooth delivery of features.<br><br>\n\n  Overall, I contribute not only as a developer but also as a team player who ensures quality, timely delivery, and efficient collaboration.\n</div>"
   }
 ]
