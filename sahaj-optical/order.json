@@ -1870,5 +1870,43 @@
     "totalPaid": 600,
     "createdAt": "2026-04-05T09:22:18.492Z",
     "id": "1775380939520"
+  },
+  {
+    "name": "Reeta sis ",
+    "mobile": "8602965624",
+    "address": "Kanha vihar (Saims)",
+    "date": "2025-10-29",
+    "prescriptions": [
+      {
+        "name": "Reeta",
+        "sphericalR": "",
+        "sphericalL": "",
+        "cylindricalR": "0.75",
+        "cylindricalL": "0.00",
+        "axisR": "20",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "1.00",
+        "addL": "1.00",
+        "glassname": "HC ",
+        "framename": "Coro"
+      }
+    ],
+    "remark": "",
+    "total": "600",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "600",
+        "date": "2025-10-29",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 600,
+    "createdAt": "2026-04-05T09:25:40.116Z",
+    "id": "1775381141173"
   }
 ]
