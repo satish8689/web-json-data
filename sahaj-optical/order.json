@@ -1832,5 +1832,43 @@
     "totalPaid": 300,
     "createdAt": "2026-04-05T09:19:36.640Z",
     "id": "1775380777672"
+  },
+  {
+    "name": "Bheru sharma ",
+    "mobile": "7987498973",
+    "address": "Saims student ",
+    "date": "2025-10-28",
+    "prescriptions": [
+      {
+        "name": "Bheru",
+        "sphericalR": "-2.0",
+        "sphericalL": "-2.50",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC ",
+        "framename": "Marsh"
+      }
+    ],
+    "remark": "",
+    "total": "600",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "600",
+        "date": "2025-10-28",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 600,
+    "createdAt": "2026-04-05T09:22:18.492Z",
+    "id": "1775380939520"
   }
 ]
