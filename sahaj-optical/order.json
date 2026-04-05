@@ -2227,5 +2227,43 @@
     "totalPaid": 350,
     "createdAt": "2026-04-05T09:45:32.260Z",
     "id": "1775382333313"
+  },
+  {
+    "name": "Mr. Shastri ji",
+    "mobile": "9755070918",
+    "address": "Kanha vihar ",
+    "date": "2026-04-03",
+    "prescriptions": [
+      {
+        "name": "Shastri ji ",
+        "sphericalR": "0.00",
+        "sphericalL": "0.00",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "2.00",
+        "addL": "2.00",
+        "glassname": "55whkt",
+        "framename": "Task"
+      }
+    ],
+    "remark": "",
+    "total": "500",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "500",
+        "date": "2026-04-03",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 500,
+    "createdAt": "2026-04-05T09:47:51.882Z",
+    "id": "1775382472911"
   }
 ]
