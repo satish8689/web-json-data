@@ -2113,5 +2113,43 @@
     "totalPaid": 500,
     "createdAt": "2026-04-05T09:38:23.288Z",
     "id": "1775381904609"
+  },
+  {
+    "name": "Mrs pushpa thakur",
+    "mobile": "7000968360",
+    "address": "Kalindi ",
+    "date": "2026-04-02",
+    "prescriptions": [
+      {
+        "name": "Mrs Pushpa",
+        "sphericalR": "-1.75",
+        "sphericalL": "-2.50",
+        "cylindricalR": "-1.50",
+        "cylindricalL": "-1.00",
+        "axisR": "80",
+        "axisL": "90",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "Brc",
+        "framename": "Oreo "
+      }
+    ],
+    "remark": "",
+    "total": "650",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "650",
+        "date": "2026-04-02",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 650,
+    "createdAt": "2026-04-05T09:40:51.538Z",
+    "id": "1775382052596"
   }
 ]
