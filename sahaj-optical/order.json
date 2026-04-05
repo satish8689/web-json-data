@@ -1757,21 +1757,41 @@
         "addL": "",
         "glassname": "HC",
         "framename": ""
+      },
+      {
+        "name": "Alka jhala ",
+        "sphericalR": "",
+        "sphericalL": "",
+        "cylindricalR": "-0.25",
+        "cylindricalL": "-0.25",
+        "axisR": "90",
+        "axisL": "90",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "HCPG ",
+        "framename": ""
       }
     ],
     "remark": "",
-    "total": "600",
+    "total": "1300",
     "advance": 0,
-    "remaining": 600,
+    "remaining": 0,
     "status": "completed",
     "payments": [
       {
-        "amount": "",
-        "date": "",
+        "amount": "600",
+        "date": "2025-10-27",
+        "paymentMode": ""
+      },
+      {
+        "amount": "700",
+        "date": "2025-10-28",
         "paymentMode": ""
       }
     ],
-    "totalPaid": 0,
+    "totalPaid": 1300,
     "createdAt": "2026-04-05T09:13:46.306Z",
     "id": "1775380427367"
   }
