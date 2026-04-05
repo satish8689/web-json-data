@@ -1794,5 +1794,43 @@
     "totalPaid": 1300,
     "createdAt": "2026-04-05T09:13:46.306Z",
     "id": "1775380427367"
+  },
+  {
+    "name": "Ms Rani yadav",
+    "mobile": "8982787938",
+    "address": "Kalindi ",
+    "date": "2025-10-27",
+    "prescriptions": [
+      {
+        "name": "Rani",
+        "sphericalR": "0.25",
+        "sphericalL": "0.25",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "1.25",
+        "addL": "1.25",
+        "glassname": "Hckt ",
+        "framename": "Only glass "
+      }
+    ],
+    "remark": "",
+    "total": "300",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "300",
+        "date": "2025-10-27",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 300,
+    "createdAt": "2026-04-05T09:19:36.640Z",
+    "id": "1775380777672"
   }
 ]
