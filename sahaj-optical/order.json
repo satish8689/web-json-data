@@ -1736,5 +1736,43 @@
     "totalPaid": 900,
     "createdAt": "2026-04-05T09:11:28.969Z",
     "id": "1775380290048"
+  },
+  {
+    "name": "Seema jhala ",
+    "mobile": "8827199788",
+    "address": "Primium paradise ",
+    "date": "2025-10-27",
+    "prescriptions": [
+      {
+        "name": "Seema",
+        "sphericalR": "0.25",
+        "sphericalL": "0.25",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "HC",
+        "framename": ""
+      }
+    ],
+    "remark": "",
+    "total": "600",
+    "advance": 0,
+    "remaining": 600,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "",
+        "date": "",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 0,
+    "createdAt": "2026-04-05T09:13:46.306Z",
+    "id": "1775380427367"
   }
 ]
