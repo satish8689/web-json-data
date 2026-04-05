@@ -1946,5 +1946,43 @@
     "totalPaid": 1000,
     "createdAt": "2026-04-05T09:28:24.167Z",
     "id": "1775381305242"
+  },
+  {
+    "name": "Mrs santoshi",
+    "mobile": "7869498378",
+    "address": "Kalindi ",
+    "date": "2026-04-01",
+    "prescriptions": [
+      {
+        "name": "Santoshi ",
+        "sphericalR": "",
+        "sphericalL": "-0.25",
+        "cylindricalR": "-0.25",
+        "cylindricalL": "-0.25",
+        "axisR": "60",
+        "axisL": "90",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC ",
+        "framename": "Sheet"
+      }
+    ],
+    "remark": "",
+    "total": "600",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "600",
+        "date": "2026-04-01",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 600,
+    "createdAt": "2026-04-05T09:31:04.552Z",
+    "id": "1775381465804"
   }
 ]
