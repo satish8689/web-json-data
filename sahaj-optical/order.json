@@ -2795,6 +2795,21 @@
         "addL": "1.50",
         "glassname": "Hckt ",
         "framename": "FF broad "
+      },
+      {
+        "name": "Mast Aarav",
+        "sphericalR": "",
+        "sphericalL": "",
+        "cylindricalR": "-1.50",
+        "cylindricalL": "-1.75",
+        "axisR": "180",
+        "axisL": "160",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC ",
+        "framename": "Sheet"
       }
     ],
     "remark": "",
