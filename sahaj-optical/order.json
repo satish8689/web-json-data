@@ -2698,5 +2698,43 @@
     "totalPaid": 350,
     "createdAt": "2026-04-08T12:52:39.794Z",
     "id": "1775652762086"
+  },
+  {
+    "name": "Mr. Dilip gurjar ",
+    "mobile": "7225098507",
+    "address": "Shankheshwar ",
+    "date": "2026-04-08",
+    "prescriptions": [
+      {
+        "name": "Mr. Dilip gurjar ",
+        "sphericalR": "1.00",
+        "sphericalL": "1.00",
+        "cylindricalR": "0.75",
+        "cylindricalL": "0.50",
+        "axisR": "180",
+        "axisL": "180",
+        "pdR": "",
+        "pdL": "",
+        "addR": "2.00",
+        "addL": "2.00",
+        "glassname": "Hckt ",
+        "framename": "Oreo "
+      }
+    ],
+    "remark": "",
+    "total": "700",
+    "advance": 0,
+    "remaining": 400,
+    "status": "in-progress",
+    "payments": [
+      {
+        "amount": "300",
+        "date": "2026-04-08",
+        "paymentMode": "online"
+      }
+    ],
+    "totalPaid": 300,
+    "createdAt": "2026-04-08T12:54:49.276Z",
+    "id": "1775652891631"
   }
 ]
