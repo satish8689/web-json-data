@@ -2649,7 +2649,7 @@
     "total": "1200",
     "advance": 0,
     "remaining": 600,
-    "status": "completed",
+    "status": "pending",
     "payments": [
       {
         "amount": "600",
