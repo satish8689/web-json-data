@@ -2584,5 +2584,43 @@
     "totalPaid": 800,
     "createdAt": "2026-04-08T12:45:07.179Z",
     "id": "1775652310075"
+  },
+  {
+    "name": "Mrs. Thakari khatri",
+    "mobile": "7774001066",
+    "address": "Shankheshwar ",
+    "date": "2026-04-05",
+    "prescriptions": [
+      {
+        "name": "Mrs. Thakari ji",
+        "sphericalR": "0.75",
+        "sphericalL": "0.50",
+        "cylindricalR": "1.25",
+        "cylindricalL": "2.00",
+        "axisR": "170",
+        "axisL": "10",
+        "pdR": "",
+        "pdL": "",
+        "addR": "2.75",
+        "addL": "2.75",
+        "glassname": "Hckt ",
+        "framename": "Sheet"
+      }
+    ],
+    "remark": "",
+    "total": "700",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "700",
+        "date": "2026-04-05",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 700,
+    "createdAt": "2026-04-08T12:47:28.243Z",
+    "id": "1775652450558"
   }
 ]
