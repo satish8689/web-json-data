@@ -2622,5 +2622,43 @@
     "totalPaid": 700,
     "createdAt": "2026-04-08T12:47:28.243Z",
     "id": "1775652450558"
+  },
+  {
+    "name": "Mr. Jitendra ",
+    "mobile": "9907467356",
+    "address": "Primium park ",
+    "date": "2026-04-06",
+    "prescriptions": [
+      {
+        "name": "Mr. Jitendra ",
+        "sphericalR": "0.00",
+        "sphericalL": "0.00",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "Poly BRC ",
+        "framename": "3pc"
+      }
+    ],
+    "remark": "",
+    "total": "1200",
+    "advance": 0,
+    "remaining": 600,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "600",
+        "date": "2026-04-06",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 600,
+    "createdAt": "2026-04-08T12:49:09.181Z",
+    "id": "1775652551457"
   }
 ]
