@@ -2660,5 +2660,43 @@
     "totalPaid": 600,
     "createdAt": "2026-04-08T12:49:09.181Z",
     "id": "1775652551457"
+  },
+  {
+    "name": "Mr. Rakesh yogi ",
+    "mobile": "7470713324",
+    "address": "Kalindi ",
+    "date": "2026-04-06",
+    "prescriptions": [
+      {
+        "name": "Mr. Rakesh yogi ",
+        "sphericalR": "0.00",
+        "sphericalL": "0.00",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "1.00",
+        "addL": "1.00",
+        "glassname": "Hckt ",
+        "framename": "Only glass "
+      }
+    ],
+    "remark": "",
+    "total": "350",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "350",
+        "date": "2026-04-06",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 350,
+    "createdAt": "2026-04-08T12:52:39.794Z",
+    "id": "1775652762086"
   }
 ]
