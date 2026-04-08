@@ -2546,5 +2546,43 @@
     "totalPaid": 350,
     "createdAt": "2026-04-05T15:24:22.511Z",
     "id": "1775402663766"
+  },
+  {
+    "name": "Mr. Rupendra ji",
+    "mobile": "9098338660",
+    "address": "Kanak smart city ",
+    "date": "2026-04-05",
+    "prescriptions": [
+      {
+        "name": "Mr. Rupendra ",
+        "sphericalR": "-0.75",
+        "sphericalL": "-0.75",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC ",
+        "framename": "Lenskart "
+      }
+    ],
+    "remark": "",
+    "total": "800",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "800",
+        "date": "2026-04-05",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 800,
+    "createdAt": "2026-04-08T12:45:07.179Z",
+    "id": "1775652310075"
   }
 ]
