@@ -2994,5 +2994,43 @@
     "totalPaid": 120,
     "createdAt": "2026-04-12T15:55:01.582Z",
     "id": "1776009302774"
+  },
+  {
+    "name": "Mr. Nitin gurjar ",
+    "mobile": "9340694900",
+    "address": "Kalindi ",
+    "date": "2026-04-11",
+    "prescriptions": [
+      {
+        "name": "Mr nitin ",
+        "sphericalR": "-1.50",
+        "sphericalL": "-1.25",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "M blue ",
+        "framename": "Hinders "
+      }
+    ],
+    "remark": "",
+    "total": "1200",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "1200",
+        "date": "2026-04-11",
+        "paymentMode": "online"
+      }
+    ],
+    "totalPaid": 1200,
+    "createdAt": "2026-04-12T15:57:21.210Z",
+    "id": "1776009442494"
   }
 ]
