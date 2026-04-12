@@ -2827,5 +2827,43 @@
     "totalPaid": 850,
     "createdAt": "2026-04-08T13:19:40.708Z",
     "id": "1775654383054"
+  },
+  {
+    "name": "Mr. Bheru pal",
+    "mobile": "9589999026",
+    "address": "Kalindi ",
+    "date": "2026-04-09",
+    "prescriptions": [
+      {
+        "name": "Mr. Bheeru",
+        "sphericalR": "",
+        "sphericalL": "",
+        "cylindricalR": "-3.00",
+        "cylindricalL": "-3.00",
+        "axisR": "180",
+        "axisL": "175",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "M blue ",
+        "framename": "Royal berry "
+      }
+    ],
+    "remark": "",
+    "total": "1550",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "1550",
+        "date": "2026-04-09",
+        "paymentMode": "online"
+      }
+    ],
+    "totalPaid": 1550,
+    "createdAt": "2026-04-12T15:46:34.433Z",
+    "id": "1776008796696"
   }
 ]
