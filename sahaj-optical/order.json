@@ -2918,5 +2918,43 @@
     "totalPaid": 2000,
     "createdAt": "2026-04-12T15:50:34.534Z",
     "id": "1776009035758"
+  },
+  {
+    "name": "Ms Khushi jeenve",
+    "mobile": "7415498860",
+    "address": "Kalindi ",
+    "date": "2026-04-10",
+    "prescriptions": [
+      {
+        "name": "Ms Khushi ",
+        "sphericalR": "-1.50",
+        "sphericalL": "1.25",
+        "cylindricalR": "-0.5",
+        "cylindricalL": "",
+        "axisR": "140",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC ",
+        "framename": "Diagonal "
+      }
+    ],
+    "remark": "",
+    "total": "800",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "800",
+        "date": "2026-04-10",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 800,
+    "createdAt": "2026-04-12T15:52:58.762Z",
+    "id": "1776009179980"
   }
 ]
