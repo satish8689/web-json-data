@@ -2956,5 +2956,43 @@
     "totalPaid": 800,
     "createdAt": "2026-04-12T15:52:58.762Z",
     "id": "1776009179980"
+  },
+  {
+    "name": "Mr. Vikas",
+    "mobile": "7610629074",
+    "address": "Kalindi ",
+    "date": "2026-04-10",
+    "prescriptions": [
+      {
+        "name": "Mr vikas",
+        "sphericalR": "-0.25",
+        "sphericalL": "",
+        "cylindricalR": "-075",
+        "cylindricalL": "-1.00",
+        "axisR": "100",
+        "axisL": "80",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "M blue ",
+        "framename": "Hinders "
+      }
+    ],
+    "remark": "",
+    "total": "1200",
+    "advance": 0,
+    "remaining": 1080,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "120",
+        "date": "2026-04-10",
+        "paymentMode": "online"
+      }
+    ],
+    "totalPaid": 120,
+    "createdAt": "2026-04-12T15:55:01.582Z",
+    "id": "1776009302774"
   }
 ]
