@@ -742,5 +742,13 @@
     "address": "Primium park ",
     "createdAt": "2026-04-22T14:31:10.295Z",
     "updatedAt": "2026-04-22T14:31:10.295Z"
+  },
+  {
+    "id": "1776868478980",
+    "name": "Mr. Nishant raj",
+    "mobile": "7004540517",
+    "address": "Kalindi ",
+    "createdAt": "2026-04-22T14:34:38.980Z",
+    "updatedAt": "2026-04-22T14:34:38.980Z"
   }
 ]
