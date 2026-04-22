@@ -3480,5 +3480,43 @@
     "totalPaid": 400,
     "createdAt": "2026-04-22T14:26:56.197Z",
     "id": "1776868017695"
+  },
+  {
+    "name": "Ms lavanya ",
+    "mobile": "9893685347",
+    "address": "Primium park ",
+    "date": "2026-04-14",
+    "prescriptions": [
+      {
+        "name": "Ms lavanya ",
+        "sphericalR": "-3.00",
+        "sphericalL": "-3.00",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC ",
+        "framename": "Metal "
+      }
+    ],
+    "remark": "",
+    "total": "850",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "850",
+        "date": "2026-04-14",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 850,
+    "createdAt": "2026-04-22T14:31:07.515Z",
+    "id": "1776868269084"
   }
 ]
