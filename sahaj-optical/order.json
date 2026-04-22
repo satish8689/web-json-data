@@ -3971,5 +3971,43 @@
     "totalPaid": 600,
     "createdAt": "2026-04-22T15:00:39.060Z",
     "id": "1776870040497"
+  },
+  {
+    "name": "Mr. Santosh ",
+    "mobile": "9893625876",
+    "address": "Primium park ",
+    "date": "2026-04-20",
+    "prescriptions": [
+      {
+        "name": "Mr. Santosh ",
+        "sphericalR": "0.00",
+        "sphericalL": "0.00",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "1.25",
+        "addL": "1.25",
+        "glassname": "Hckt ",
+        "framename": "Oreo "
+      }
+    ],
+    "remark": "",
+    "total": "650",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "650",
+        "date": "2026-04-20",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 650,
+    "createdAt": "2026-04-22T15:02:26.354Z",
+    "id": "1776870147808"
   }
 ]
