@@ -3690,5 +3690,43 @@
     "totalPaid": 700,
     "createdAt": "2026-04-22T14:44:49.897Z",
     "id": "1776869091334"
+  },
+  {
+    "name": "Ms. Damanpreet",
+    "mobile": "6264815426",
+    "address": "Paradise ",
+    "date": "2026-04-16",
+    "prescriptions": [
+      {
+        "name": "Ms. Damanpreet ",
+        "sphericalR": "-1.25",
+        "sphericalL": "-1.25",
+        "cylindricalR": "-0.50",
+        "cylindricalL": "-1.00",
+        "axisR": "180",
+        "axisL": "180",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "Tinted",
+        "framename": "Goggle "
+      }
+    ],
+    "remark": "",
+    "total": "850",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "850",
+        "date": "2026-04-16",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 850,
+    "createdAt": "2026-04-22T14:47:03.327Z",
+    "id": "1776869224748"
   }
 ]
