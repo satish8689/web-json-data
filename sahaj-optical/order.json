@@ -3804,5 +3804,43 @@
     "totalPaid": 650,
     "createdAt": "2026-04-22T14:51:10.540Z",
     "id": "1776869472017"
+  },
+  {
+    "name": "Mr. N C nag",
+    "mobile": "",
+    "address": "Shyam regency ",
+    "date": "2026-04-18",
+    "prescriptions": [
+      {
+        "name": "Mr. Nc nag",
+        "sphericalR": "0.00",
+        "sphericalL": "0.00",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "2.50",
+        "addL": "2.50",
+        "glassname": "HCPGKT ",
+        "framename": "Marsh"
+      }
+    ],
+    "remark": "",
+    "total": "750",
+    "advance": 0,
+    "remaining": 0,
+    "status": "pending",
+    "payments": [
+      {
+        "amount": "750",
+        "date": "2026-04-18",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 750,
+    "createdAt": "2026-04-22T14:53:31.833Z",
+    "id": "1776869613241"
   }
 ]
