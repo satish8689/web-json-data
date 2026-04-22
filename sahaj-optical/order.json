@@ -4252,5 +4252,43 @@
     "totalPaid": 540,
     "createdAt": "2026-04-22T15:58:57.793Z",
     "id": "1776873539239"
+  },
+  {
+    "name": "Mr. KN bhopte",
+    "mobile": "7898458003",
+    "address": "Kalindi ",
+    "date": "2026-03-26",
+    "prescriptions": [
+      {
+        "name": "Mr kn bhopte ",
+        "sphericalR": "0.0",
+        "sphericalL": "0.00",
+        "cylindricalR": "0.00",
+        "cylindricalL": "-1.25",
+        "axisR": "",
+        "axisL": "80",
+        "pdR": "",
+        "pdL": "",
+        "addR": "2.50",
+        "addL": "2.50",
+        "glassname": "HCPGKT ",
+        "framename": "FF "
+      }
+    ],
+    "remark": "",
+    "total": "1000",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "1000",
+        "date": "2026-03-26",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 1000,
+    "createdAt": "2026-04-22T16:01:36.199Z",
+    "id": "1776873697696"
   }
 ]
