@@ -3518,5 +3518,43 @@
     "totalPaid": 850,
     "createdAt": "2026-04-22T14:31:07.515Z",
     "id": "1776868269084"
+  },
+  {
+    "name": "Mr. Nishant raj",
+    "mobile": "7004540517",
+    "address": "Kalindi ",
+    "date": "2026-04-15",
+    "prescriptions": [
+      {
+        "name": "Mr. Nishant ",
+        "sphericalR": "",
+        "sphericalL": "0.25",
+        "cylindricalR": "0.50",
+        "cylindricalL": "",
+        "axisR": "180",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "1.75",
+        "addL": "1.75",
+        "glassname": "Vista pg progressive ",
+        "framename": "Lenskart "
+      }
+    ],
+    "remark": "",
+    "total": "3500",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "3500",
+        "date": "2026-04-15",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 3500,
+    "createdAt": "2026-04-22T14:34:36.342Z",
+    "id": "1776868477798"
   }
 ]
