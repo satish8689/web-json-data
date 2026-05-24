@@ -4594,5 +4594,43 @@
     "totalPaid": 650,
     "createdAt": "2026-05-24T12:25:35.828Z",
     "id": "1779625536829"
+  },
+  {
+    "name": "Mr. Lakhan",
+    "mobile": "8602965624",
+    "address": "Kanha vihar ",
+    "date": "2025-10-31",
+    "prescriptions": [
+      {
+        "name": "Baby anamika ",
+        "sphericalR": "0.25",
+        "sphericalL": "0.25",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "HC ",
+        "framename": "Metal "
+      }
+    ],
+    "remark": "",
+    "total": "600",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "600",
+        "date": "2025-11-01",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 600,
+    "createdAt": "2026-05-24T12:27:45.732Z",
+    "id": "1779625666764"
   }
 ]
