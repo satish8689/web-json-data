@@ -4670,5 +4670,43 @@
     "totalPaid": 300,
     "createdAt": "2026-05-24T12:51:07.501Z",
     "id": "1779627068581"
+  },
+  {
+    "name": "Mr. Amol Bhalerao ",
+    "mobile": "7974146741",
+    "address": "Kalindi ",
+    "date": "2025-11-01",
+    "prescriptions": [
+      {
+        "name": "Mr. Amol",
+        "sphericalR": "-5.50",
+        "sphericalL": "-5.50",
+        "cylindricalR": "-0.50",
+        "cylindricalL": "",
+        "axisR": "180",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "1p mari blue , 1p BRC ",
+        "framename": "1 metal, 1 sheet "
+      }
+    ],
+    "remark": "",
+    "total": "1800",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "1800",
+        "date": "2025-11-02",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 1800,
+    "createdAt": "2026-05-24T12:56:11.045Z",
+    "id": "1779627372103"
   }
 ]
