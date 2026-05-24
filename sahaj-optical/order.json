@@ -4632,5 +4632,43 @@
     "totalPaid": 600,
     "createdAt": "2026-05-24T12:27:45.732Z",
     "id": "1779625666764"
+  },
+  {
+    "name": "Mr. Akshay ",
+    "mobile": "9993283672",
+    "address": "Kalindi ",
+    "date": "2025-11-01",
+    "prescriptions": [
+      {
+        "name": "Mr. Akshay ",
+        "sphericalR": "0.50",
+        "sphericalL": "0.50",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "HC ",
+        "framename": "Only glass "
+      }
+    ],
+    "remark": "",
+    "total": "300",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "300",
+        "date": "2025-11-02",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 300,
+    "createdAt": "2026-05-24T12:51:07.501Z",
+    "id": "1779627068581"
   }
 ]
