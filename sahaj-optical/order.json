@@ -4822,5 +4822,43 @@
     "totalPaid": 1800,
     "createdAt": "2026-05-24T13:11:03.364Z",
     "id": "1779628264419"
+  },
+  {
+    "name": "Mrs. Mradula pathak ",
+    "mobile": "8269484487",
+    "address": "Primium park ",
+    "date": "2025-11-02",
+    "prescriptions": [
+      {
+        "name": "Mrs. Mradula ",
+        "sphericalR": "-0.50",
+        "sphericalL": "-0.50",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "1.50",
+        "addL": "1.50",
+        "glassname": "Vista progressive ",
+        "framename": "Para tr"
+      }
+    ],
+    "remark": "",
+    "total": "2000",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "2000",
+        "date": "2025-11-03",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 2000,
+    "createdAt": "2026-05-24T13:13:32.048Z",
+    "id": "1779628413101"
   }
 ]
