@@ -4480,5 +4480,43 @@
     "totalPaid": 700,
     "createdAt": "2026-04-22T16:12:57.817Z",
     "id": "1776874379248"
+  },
+  {
+    "name": "Mr. Hariram khati",
+    "mobile": "9826441588",
+    "address": "Kalindi ",
+    "date": "2025-10-30",
+    "prescriptions": [
+      {
+        "name": "Mr. Hariram ",
+        "sphericalR": "-1.00",
+        "sphericalL": "-1.00",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "1.75",
+        "addL": "1.75",
+        "glassname": "BRCKT ",
+        "framename": "FF metal "
+      }
+    ],
+    "remark": "",
+    "total": "800",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "800",
+        "date": "2025-10-31",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 800,
+    "createdAt": "2026-05-24T12:19:55.206Z",
+    "id": "1779625196231"
   }
 ]
