@@ -4784,5 +4784,43 @@
     "totalPaid": 750,
     "createdAt": "2026-05-24T13:08:35.942Z",
     "id": "1779628117044"
+  },
+  {
+    "name": "Mr. Pramod Pathak ",
+    "mobile": "8269484487",
+    "address": "Primium park ",
+    "date": "2025-11-02",
+    "prescriptions": [
+      {
+        "name": "Mr. Pramod ",
+        "sphericalR": "0.50",
+        "sphericalL": "0.50",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "1.50",
+        "addL": "1.50",
+        "glassname": "Vista progressive ",
+        "framename": "Hinders "
+      }
+    ],
+    "remark": "",
+    "total": "1800",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "1800",
+        "date": "2025-11-03",
+        "paymentMode": "online"
+      }
+    ],
+    "totalPaid": 1800,
+    "createdAt": "2026-05-24T13:11:03.364Z",
+    "id": "1779628264419"
   }
 ]
