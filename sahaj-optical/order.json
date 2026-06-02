@@ -5354,5 +5354,43 @@
     "totalPaid": 800,
     "createdAt": "2026-06-02T11:56:21.717Z",
     "id": "1780401383207"
+  },
+  {
+    "name": "Mr. Girdhari ",
+    "mobile": "9993656541",
+    "address": "Kalindi ",
+    "date": "2026-04-27",
+    "prescriptions": [
+      {
+        "name": "",
+        "sphericalR": "1.00",
+        "sphericalL": "1.00",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "2.00",
+        "addL": "2.00",
+        "glassname": "HCPG progressive ",
+        "framename": "Metal"
+      }
+    ],
+    "remark": "",
+    "total": "1950",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "1950",
+        "date": "2026-04-27",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 1950,
+    "createdAt": "2026-06-02T11:58:59.418Z",
+    "id": "1780401540859"
   }
 ]
