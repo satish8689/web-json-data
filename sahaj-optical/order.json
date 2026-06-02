@@ -4898,5 +4898,43 @@
     "totalPaid": 950,
     "createdAt": "2026-06-02T11:32:05.308Z",
     "id": "1780399926794"
+  },
+  {
+    "name": "Mr. Shubham",
+    "mobile": "8349077037",
+    "address": "Saims",
+    "date": "2026-06-01",
+    "prescriptions": [
+      {
+        "name": "",
+        "sphericalR": "-0.75",
+        "sphericalL": "-0.75",
+        "cylindricalR": "-0.75",
+        "cylindricalL": "-0.75",
+        "axisR": "180",
+        "axisL": "180",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC ",
+        "framename": "Only glass "
+      }
+    ],
+    "remark": "",
+    "total": "400",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "400",
+        "date": "2026-06-01",
+        "paymentMode": "online"
+      }
+    ],
+    "totalPaid": 400,
+    "createdAt": "2026-06-02T11:34:07.232Z",
+    "id": "1780400048702"
   }
 ]
