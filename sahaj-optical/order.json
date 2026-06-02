@@ -5392,5 +5392,43 @@
     "totalPaid": 1950,
     "createdAt": "2026-06-02T11:58:59.418Z",
     "id": "1780401540859"
+  },
+  {
+    "name": "Ms pranjal verma ",
+    "mobile": "",
+    "address": "Kalindi ",
+    "date": "2026-04-28",
+    "prescriptions": [
+      {
+        "name": "",
+        "sphericalR": "0.00",
+        "sphericalL": "0.00",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC ",
+        "framename": "Metal "
+      }
+    ],
+    "remark": "",
+    "total": "1000",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "1000",
+        "date": "2026-04-28",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 1000,
+    "createdAt": "2026-06-02T12:08:00.713Z",
+    "id": "1780402083199"
   }
 ]
