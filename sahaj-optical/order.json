@@ -5164,5 +5164,43 @@
     "totalPaid": 1500,
     "createdAt": "2026-06-02T11:46:42.974Z",
     "id": "1780400804430"
+  },
+  {
+    "name": "Mrs Lakshmi ",
+    "mobile": "9907308496",
+    "address": "Kalindi ",
+    "date": "2026-04-24",
+    "prescriptions": [
+      {
+        "name": "",
+        "sphericalR": "2.50",
+        "sphericalL": "2.75",
+        "cylindricalR": "0.50",
+        "cylindricalL": "0.25",
+        "axisR": "70",
+        "axisL": "90",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "HC ",
+        "framename": "Sheet "
+      }
+    ],
+    "remark": "",
+    "total": "1000",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "1000",
+        "date": "2026-04-24",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 1000,
+    "createdAt": "2026-06-02T11:48:44.227Z",
+    "id": "1780400925683"
   }
 ]
