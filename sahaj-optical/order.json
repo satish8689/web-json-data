@@ -4860,5 +4860,43 @@
     "totalPaid": 2000,
     "createdAt": "2026-05-24T13:13:32.048Z",
     "id": "1779628413101"
+  },
+  {
+    "name": "Mr. Mukesh chouhan ",
+    "mobile": "8982037054",
+    "address": "Kalindi ",
+    "date": "2026-06-01",
+    "prescriptions": [
+      {
+        "name": "",
+        "sphericalR": "0.00",
+        "sphericalL": "0.00",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "1.25",
+        "addL": "1.25",
+        "glassname": "BRCKT ",
+        "framename": "Lencart"
+      }
+    ],
+    "remark": "",
+    "total": "950",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "950",
+        "date": "2026-06-01",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 950,
+    "createdAt": "2026-06-02T11:32:05.308Z",
+    "id": "1780399926794"
   }
 ]
