@@ -5088,5 +5088,43 @@
     "totalPaid": 750,
     "createdAt": "2026-06-02T11:42:07.606Z",
     "id": "1780400529076"
+  },
+  {
+    "name": "Mr. Ramesh Arya ",
+    "mobile": "8770313554",
+    "address": "Kalindi ",
+    "date": "2026-04-23",
+    "prescriptions": [
+      {
+        "name": "",
+        "sphericalR": "-0.50",
+        "sphericalL": "-0.50",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "1.00",
+        "addL": "1.00",
+        "glassname": "BRCKT ",
+        "framename": "Metal"
+      }
+    ],
+    "remark": "",
+    "total": "900",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "900",
+        "date": "2026-04-24",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 900,
+    "createdAt": "2026-06-02T11:44:21.535Z",
+    "id": "1780400663038"
   }
 ]
