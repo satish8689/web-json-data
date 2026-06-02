@@ -5126,5 +5126,43 @@
     "totalPaid": 900,
     "createdAt": "2026-06-02T11:44:21.535Z",
     "id": "1780400663038"
+  },
+  {
+    "name": "Mast dhairya",
+    "mobile": "9819177290",
+    "address": "Kalyan sampath ",
+    "date": "2026-04-23",
+    "prescriptions": [
+      {
+        "name": "",
+        "sphericalR": "1.25",
+        "sphericalL": "1.00",
+        "cylindricalR": "-5.00",
+        "cylindricalL": "-5.00",
+        "axisR": "180",
+        "axisL": "170",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "HC ",
+        "framename": "Metal "
+      }
+    ],
+    "remark": "",
+    "total": "1500",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "1500",
+        "date": "2026-04-24",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 1500,
+    "createdAt": "2026-06-02T11:46:42.974Z",
+    "id": "1780400804430"
   }
 ]
