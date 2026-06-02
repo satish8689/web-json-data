@@ -4936,5 +4936,43 @@
     "totalPaid": 400,
     "createdAt": "2026-06-02T11:34:07.232Z",
     "id": "1780400048702"
+  },
+  {
+    "name": "Mr. Raju chouhan ",
+    "mobile": "7869548023",
+    "address": "Kalindi ",
+    "date": "2026-06-01",
+    "prescriptions": [
+      {
+        "name": "",
+        "sphericalR": "1.50",
+        "sphericalL": "2.00",
+        "cylindricalR": "1.00",
+        "cylindricalL": "0.50",
+        "axisR": "170",
+        "axisL": "180",
+        "pdR": "",
+        "pdL": "",
+        "addR": "2.25",
+        "addL": "2.25",
+        "glassname": "BRC progressive ",
+        "framename": "Tom h"
+      }
+    ],
+    "remark": "",
+    "total": "2600",
+    "advance": 0,
+    "remaining": 600,
+    "status": "in-progress",
+    "payments": [
+      {
+        "amount": "2000",
+        "date": "2026-06-01",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 2000,
+    "createdAt": "2026-06-02T11:36:01.355Z",
+    "id": "1780400162809"
   }
 ]
