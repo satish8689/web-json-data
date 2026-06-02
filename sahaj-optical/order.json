@@ -5316,5 +5316,43 @@
     "totalPaid": 900,
     "createdAt": "2026-06-02T11:54:34.820Z",
     "id": "1780401276313"
+  },
+  {
+    "name": "Ms itisha ",
+    "mobile": "8780036190",
+    "address": "Kanak smart city ",
+    "date": "2026-04-27",
+    "prescriptions": [
+      {
+        "name": "",
+        "sphericalR": "-1.50",
+        "sphericalL": "-1.75",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC ",
+        "framename": "Metal "
+      }
+    ],
+    "remark": "",
+    "total": "800",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "800",
+        "date": "2026-04-27",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 800,
+    "createdAt": "2026-06-02T11:56:21.717Z",
+    "id": "1780401383207"
   }
 ]
