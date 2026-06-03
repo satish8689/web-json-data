@@ -5468,5 +5468,73 @@
     "totalPaid": 1050,
     "createdAt": "2026-06-02T12:10:08.340Z",
     "id": "1780402209849"
+  },
+  {
+    "name": "Mrs. Sharda",
+    "mobile": "9630640591",
+    "address": "Kalindi ",
+    "date": "2026-06-03",
+    "prescriptions": [
+      {
+        "name": "Mrs. Sharda",
+        "sphericalR": "-2.00",
+        "sphericalL": "-2.00",
+        "cylindricalR": "-0.75",
+        "cylindricalL": "-0.50",
+        "axisR": "130",
+        "axisL": "50",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC ",
+        "framename": "Metal"
+      },
+      {
+        "name": "Baby khushboo",
+        "sphericalR": "",
+        "sphericalL": "",
+        "cylindricalR": "-0.25",
+        "cylindricalL": "-0.25",
+        "axisR": "160",
+        "axisL": "20",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC ",
+        "framename": "Fogg"
+      },
+      {
+        "name": "Mrs. Leela",
+        "sphericalR": "-0.50",
+        "sphericalL": "0.0",
+        "cylindricalR": "-0.50",
+        "cylindricalL": "-0.25",
+        "axisR": "180",
+        "axisL": "170",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC ",
+        "framename": "Task"
+      }
+    ],
+    "remark": "",
+    "total": "2200",
+    "advance": 0,
+    "remaining": 700,
+    "status": "in-progress",
+    "payments": [
+      {
+        "amount": "1500",
+        "date": "2026-06-03",
+        "paymentMode": "online"
+      }
+    ],
+    "totalPaid": 1500,
+    "createdAt": "2026-06-03T14:03:47.478Z",
+    "id": "1780495429534"
   }
 ]
