@@ -264,42 +264,42 @@
     "totalPaid": 0
   },
   {
-    "name": "Mr. B.k. vishvakarma ",
+    "name": "Mr. B.k. vishwakarma ",
     "mobile": "6262192525",
-    "address": "Baroli",
-    "date": "2025-10-24",
+    "address": "Kalindi ",
+    "date": "2026-06-04",
     "prescriptions": [
       {
-        "name": "Mr. Bk. Vishwakarma ",
-        "sphericalR": "",
-        "sphericalL": "",
-        "cylindricalR": "",
-        "cylindricalL": "",
-        "axisR": "",
-        "axisL": "",
+        "name": "",
+        "sphericalR": "-2.75",
+        "sphericalL": "-3.00",
+        "cylindricalR": "-1.00",
+        "cylindricalL": "-0.25",
+        "axisR": "150",
+        "axisL": "150",
         "pdR": "",
         "pdL": "",
         "addR": "",
         "addL": "",
-        "glassname": "Frame change ",
-        "framename": "Goggle "
+        "glassname": "M blue+tinted",
+        "framename": "Frame + goggle "
       }
     ],
     "remark": "",
-    "total": "120",
-    "advance": "120",
-    "remaining": 120,
+    "total": "2100",
+    "advance": 0,
+    "remaining": 1100,
     "createdAt": "2026-01-30T07:47:57.272Z",
     "id": "1769759278709",
-    "status": "completed",
+    "status": "in-progress",
     "payments": [
       {
-        "amount": "",
-        "date": "",
+        "amount": "1000",
+        "date": "2026-06-04",
         "paymentMode": ""
       }
     ],
-    "totalPaid": 0
+    "totalPaid": 1000
   },
   {
     "name": "Mr. Vijay singh",
