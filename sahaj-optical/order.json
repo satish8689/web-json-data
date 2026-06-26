@@ -5536,5 +5536,43 @@
     "totalPaid": 1500,
     "createdAt": "2026-06-03T14:03:47.478Z",
     "id": "1780495429534"
+  },
+  {
+    "name": "Mr. Parasmal vishwakarma ",
+    "mobile": "9981783196",
+    "address": "Shankheshwar ",
+    "date": "2026-06-25",
+    "prescriptions": [
+      {
+        "name": "",
+        "sphericalR": "1.00",
+        "sphericalL": "1.25",
+        "cylindricalR": "1.25",
+        "cylindricalL": "1.00",
+        "axisR": "170",
+        "axisL": "10",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC progressive ",
+        "framename": "FF "
+      }
+    ],
+    "remark": "",
+    "total": "2000",
+    "advance": 0,
+    "remaining": 1500,
+    "status": "pending",
+    "payments": [
+      {
+        "amount": "500",
+        "date": "2026-06-25",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 500,
+    "createdAt": "2026-06-26T13:22:11.699Z",
+    "id": "1782480134771"
   }
 ]
