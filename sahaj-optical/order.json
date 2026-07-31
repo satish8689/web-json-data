@@ -5574,5 +5574,43 @@
     "totalPaid": 500,
     "createdAt": "2026-06-26T13:22:11.699Z",
     "id": "1782480134771"
+  },
+  {
+    "name": "Ms pragati ",
+    "mobile": "9977854578",
+    "address": "Kalindi ",
+    "date": "2026-07-30",
+    "prescriptions": [
+      {
+        "name": "",
+        "sphericalR": "",
+        "sphericalL": "-0.50",
+        "cylindricalR": "-2.00",
+        "cylindricalL": "-1.50",
+        "axisR": "100",
+        "axisL": "80",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "BRC ",
+        "framename": "Williams "
+      }
+    ],
+    "remark": "",
+    "total": "1000",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "1000",
+        "date": "2026-07-30",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 1000,
+    "createdAt": "2026-07-31T10:58:14.410Z",
+    "id": "1785495495192"
   }
 ]
