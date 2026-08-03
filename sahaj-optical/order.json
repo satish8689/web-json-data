@@ -5612,5 +5612,43 @@
     "totalPaid": 1000,
     "createdAt": "2026-07-31T10:58:14.410Z",
     "id": "1785495495192"
+  },
+  {
+    "name": "Mr. Rupesh ji",
+    "mobile": "8770728309",
+    "address": "Brajdham",
+    "date": "2026-08-03",
+    "prescriptions": [
+      {
+        "name": "",
+        "sphericalR": "-1.75",
+        "sphericalL": "-1.50",
+        "cylindricalR": "-0.50",
+        "cylindricalL": "-0.25",
+        "axisR": "30",
+        "axisL": "150",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "Polycarbonate brc",
+        "framename": "3pc"
+      }
+    ],
+    "remark": "",
+    "total": "1400",
+    "advance": 0,
+    "remaining": 900,
+    "status": "pending",
+    "payments": [
+      {
+        "amount": "500",
+        "date": "2026-08-03",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 500,
+    "createdAt": "2026-08-03T14:40:52.082Z",
+    "id": "1785768055044"
   }
 ]
