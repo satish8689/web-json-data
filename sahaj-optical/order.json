@@ -5726,5 +5726,43 @@
     "totalPaid": 0,
     "createdAt": "2026-08-19T16:07:40.808Z",
     "id": "1787155662689"
+  },
+  {
+    "name": "Mr. Manoj",
+    "mobile": "8103139700",
+    "address": "Kalindi ",
+    "date": "2026-08-05",
+    "prescriptions": [
+      {
+        "name": "",
+        "sphericalR": "-1.50",
+        "sphericalL": "-0.75",
+        "cylindricalR": "",
+        "cylindricalL": "-0.75",
+        "axisR": "",
+        "axisL": "100",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "",
+        "framename": ""
+      }
+    ],
+    "remark": "",
+    "total": "1400",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "1400",
+        "date": "2026-08-05",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 1400,
+    "createdAt": "2026-09-03T13:36:26.693Z",
+    "id": "1788442588375"
   }
 ]
