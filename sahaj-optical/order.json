@@ -5764,5 +5764,43 @@
     "totalPaid": 1400,
     "createdAt": "2026-09-03T13:36:26.693Z",
     "id": "1788442588375"
+  },
+  {
+    "name": "Mr. Pran singh yadav",
+    "mobile": "7247290399",
+    "address": "Brajdham ",
+    "date": "2026-09-02",
+    "prescriptions": [
+      {
+        "name": "",
+        "sphericalR": "-1.00",
+        "sphericalL": "-1.00",
+        "cylindricalR": "-1.00",
+        "cylindricalL": "-1.00",
+        "axisR": "70",
+        "axisL": "70",
+        "pdR": "",
+        "pdL": "",
+        "addR": "",
+        "addL": "",
+        "glassname": "",
+        "framename": ""
+      }
+    ],
+    "remark": "",
+    "total": "750",
+    "advance": 0,
+    "remaining": 650,
+    "status": "pending",
+    "payments": [
+      {
+        "amount": "100",
+        "date": "2026-09-02",
+        "paymentMode": ""
+      }
+    ],
+    "totalPaid": 100,
+    "createdAt": "2026-09-03T13:38:38.002Z",
+    "id": "1788442719696"
   }
 ]
