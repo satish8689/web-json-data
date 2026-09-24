@@ -5802,5 +5802,43 @@
     "totalPaid": 100,
     "createdAt": "2026-09-03T13:38:38.002Z",
     "id": "1788442719696"
+  },
+  {
+    "name": "Mr. Arvind joshi",
+    "mobile": "9329024687",
+    "address": "Primium park indore ",
+    "date": "2026-09-20",
+    "prescriptions": [
+      {
+        "name": "",
+        "sphericalR": "1.25",
+        "sphericalL": "1.25",
+        "cylindricalR": "",
+        "cylindricalL": "",
+        "axisR": "",
+        "axisL": "",
+        "pdR": "29",
+        "pdL": "29",
+        "addR": "1.75",
+        "addL": "1.75",
+        "glassname": "M. Blue progressive ",
+        "framename": "Metal "
+      }
+    ],
+    "remark": "",
+    "total": "2100",
+    "advance": 0,
+    "remaining": 0,
+    "status": "completed",
+    "payments": [
+      {
+        "amount": "2100",
+        "date": "2026-09-20",
+        "paymentMode": "online"
+      }
+    ],
+    "totalPaid": 2100,
+    "createdAt": "2026-09-24T16:00:02.065Z",
+    "id": "1790265603139"
   }
 ]
